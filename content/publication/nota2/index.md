@@ -3,6 +3,12 @@ title: "Reporte 2: Crecimiento Subexponencial de los casos confirmados"
 authors:
 - marim
 - dherrera
+- isanguinetti
+- jpintos
+- aaleman
+- hromero
+- mfariello
+- hbotti
 date: "2020-03-30"
 doi: ""
 

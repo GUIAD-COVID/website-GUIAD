@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Daniel Herrera
+name: Juan Ignacio Sanguinetti
 
 # Username (this should match the folder name)
 authors:
-- dherrera
+- isanguinetti
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ role: Investigador
 
 # Organizations/Affiliations
 organizations:
-- name: Facultad de Ciencias - Universidad de la República
+- name: Universidad de la República - Facultad de Ciencias
   url: ""
 
 

@@ -31,7 +31,6 @@ image:
 projects: []
 ---
 
-## Reportes 1 y 2 del grupo GUIAD-COVID 19 en pocas palabras 
 
 Los dos reportes ahondan en una serie de ideas que creemos son importantes comprender a esta altura de la situación. Se basan en el análisis de datos de Covid-19 en Uruguay, en el estudio de modelos internacionales y en bagaje académico de las áreas de matemática, computación, epidemiología, ecología y medicina. 
 

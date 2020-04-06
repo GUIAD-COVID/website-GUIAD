@@ -57,6 +57,7 @@ user_groups:
 
 El grupo GUIAD-COVID19 está integrado por investigadores de diferentes áreas, vinculados a la Universidad de la República de Uruguay. 
 
+* Alicia Aleman - Instituto de Higiene, Facultad de Medicina
 * Ignacio Alvarez-Castro (Nachalca) -  PhD en estadística. IESTA, Facultad de Ciencias Económicas.
 * Matías Arim - PhD en ecología, modelado de ecología de poblaciones. Cure Maldonado.
 * Zaida Arteta - médico, infectóloga. Cát. Enfermedades Infecciosas,  Facultad de Medicina.
@@ -78,6 +79,6 @@ El grupo GUIAD-COVID19 está integrado por investigadores de diferentes áreas, 
 * Daiana Mir - PhD. Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte. 
 * Guillermo Moncecchi - PhD en Procesamiento de lenguaje Natural. Instituto de Computación, Facultad de Ingeniería
 * Daniela Paciel - Médica, intensivista, infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina
-* Javier Pintos
+* Javier Pintos - Instituto de Higiene, Facultad de Medicina
 * Héctor Romero (Yuyo) - PhD en genómica. Secc. Evolución del Genoma, Facultad de Ciencias
 * Juan Ignacio Sanguinetti - PhD en neurociencia, Secc. Neurociencias, Facultad de Ciencias / Harvard University.

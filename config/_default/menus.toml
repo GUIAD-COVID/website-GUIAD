@@ -8,20 +8,21 @@
   url = "#hero"
   weight = 10
 
+
 [[main]]
   name = "Novedades"
   url = "#posts"
-  weight = 20
+  weight = 10
 
 [[main]]
   name = "Reportes técnicos"
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "Datos"
-  url = "data/"
-  weight = 50
+#[[main]]
+# name = "Datos"
+#  url = "data/"
+#  weight = 50
 
 [[main]]
   name = "Recursos externos"
@@ -29,9 +30,14 @@
   weight = 50
 
 [[main]]
+  name="¿Quiénes somos?"
+  url = "#about"
+  weight = 60
+  
+[[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 60
+  weight = 65
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

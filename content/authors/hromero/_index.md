@@ -1,10 +1,9 @@
 ---
 # Display name
-name: Daniel Herrera
-
+name: Héctor Romero
 # Username (this should match the folder name)
 authors:
-- dherrera
+- hromero
 
 # Is this the primary user of the site?
 superuser: false

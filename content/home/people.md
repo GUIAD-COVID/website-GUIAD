@@ -4,10 +4,10 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Nuestro equipo"
+title = "Investigadores"
 subtitle = ""
 
 [content]
@@ -20,7 +20,7 @@ subtitle = ""
   show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.

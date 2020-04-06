@@ -3,6 +3,12 @@ title: "Reporte 1: Ciencia y Datos para el análisis de la epidemia"
 authors:
 - marim
 - dherrera
+- isanguinetti
+- jpintos
+- aaleman
+- hromero
+- mfariello
+- hbotti
 date: "2020-03-23"
 doi: ""
 
