@@ -61,4 +61,7 @@ subtitle = "En esta página dejaremos disponibles links (debidamente curados) co
 
 # Repositorios de datos
 
+[European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) - Repositorio actualizado del Centro Europeo para Prevención y Control de Enfermedades. Incluye
+además de datos actualizados diariamente, de todo el mundo, noticias, publicaciones y eventos. 
+
 [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) - Repositorio actualizado con información diaria, consolidado a partir de diferentes fuentes. También incluye algunas visualizaciones 
