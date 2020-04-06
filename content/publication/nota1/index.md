@@ -48,7 +48,8 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+ # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Capacidad potencial y estado actual de la capacidad predictiva del brote de COVID-19 en Uruguay (elaboración propia)'
   focal_point: ""
   preview_only: false
 

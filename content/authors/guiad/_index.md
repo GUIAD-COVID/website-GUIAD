@@ -57,28 +57,28 @@ user_groups:
 
 El grupo GUIAD-COVID19 está integrado por investigadores de diferentes áreas, vinculados a la Universidad de la República de Uruguay. 
 
-* Alicia Aleman - Instituto de Higiene, Facultad de Medicina
-* Ignacio Alvarez-Castro (Nachalca) -  PhD en estadística. IESTA, Facultad de Ciencias Económicas.
-* Matías Arim - PhD en ecología, modelado de ecología de poblaciones. Cure Maldonado.
-* Zaida Arteta - médico, infectóloga. Cát. Enfermedades Infecciosas,  Facultad de Medicina.
-* Javier Baliosian - PhD en Computación, Instituto de Computación, Facultad de Ingeniería
-* Juan Manuel Barreneche - MSc en ecología, modelado de ecología poblacional y comunitaria. DINAMA.
-* Horacio Botti - Médico, PhD en biofísica de proteínas. Dep. Biofísica, Facultad de Medicina.
-* Paola Bermolen - PhD Matemática Aplicada, Modelos estocásticos de redes de datos. IMERL, Facultad de Ingeniería.
-* Nicolás Brunet - sociólogo, PhD demografía. Instituto de Psicología de la Salud, Facultad de Psicología.
-* Álvaro Cabana - PhD en biofísica, redes neurales. CIBPsi / IFyM, Facultad de Psicología.
-* Luis Claro - MSc en biofísica, modelado de epidemias. Secc. Biofísica, Facultad de Ciencias.
-* Natalia da Silva - PhD en estadística. IESTA, Facultad de Ciencias Económicas.
-* Lorena Etcheverry - PhD en computación, gestión de datos.  Instituto de Computación, Facultad de Ingeniería
-* María Inés Fariello - PhD en Ecología, Biodiversidad y Evolución, genética de poblaciones. IMERL, Facultad de Ingeniería
-* Marcelo Fiori - PhD. Grafos, Machine Learning, optimización. IMERL, Facultad de Ingeniería
+* Ignacio Alvarez-Castro -  PhD en Estadística. IESTA, Facultad de Ciencias Económicas.
+* Matías Arim - PhD en Ecología. Modelado de ecología de poblaciones. Cure Maldonado.
+* Zaida Arteta - Médico, Infectóloga. Cátedra de Enfermedades Infecciosas,  Facultad de Medicina.
+* Javier Baliosian - PhD en Computación. Instituto de Computación, Facultad de Ingeniería.
+* Juan Manuel Barreneche - MSc en Ecología. Modelado de ecología poblacional y comunitaria. DINAMA.
+* Horacio Botti - Médico, PhD en Biofísica de Proteínas. Dep. Biofísica, Facultad de Medicina.
+* Paola Bermolen - PhD en Informática y Redes. Modelos Estocásticos de Redes de Datos. IMERL, Facultad de Ingeniería.
+* Nicolás Brunet - Sociólogo, PhD Demografía. Instituto de Psicología de la Salud, Facultad de Psicología.
+* Álvaro Cabana - PhD en Biofísica. Redes neurales. CIBPsi / IFyM, Facultad de Psicología.
+* Luis Claro - MSc en Biofísica. Modelado de epidemias. Sección Biofísica, Facultad de Ciencias.
+* Natalia da Silva - PhD en Estadística. IESTA, Facultad de Ciencias Económicas.
+* Lorena Etcheverry - PhD en Computación.  Gestión de datos.  Instituto de Computación, Facultad de Ingeniería.
+* María Inés Fariello - PhD en Ecología, Biodiversidad y Evolución. Genética de poblaciones. IMERL, Facultad de Ingeniería.
+* Marcelo Fiori - PhD en Ingeniería Eléctrica. Grafos, Machine Learning, Optimización. IMERL, Facultad de Ingeniería
 * Juan José Goyeneche -  PhD en Estadística. IESTA, Facultad de Ciencias Económicas.
-* Daniel Herrera - MSc en neurociencia, Secc. Neurociencias, Facultad de Ciencias
-* Pablo Inchausti - PhD en ecología. Cure Maldonado.
+* Daniel Herrera - MSc en Neurociencia. Sección Neurociencias, Facultad de Ciencias.
+* Pablo Inchausti - PhD en Ecología. Cure Maldonado.
+* Gregorio Iraola - PhD en Ciencias Biológicas. Genómica Microbiana Instituto Pasteur Montevideo (Director).
 * Federico Lecumberry - PhD en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería
-* Daiana Mir - PhD. Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte. 
-* Guillermo Moncecchi - PhD en Procesamiento de lenguaje Natural. Instituto de Computación, Facultad de Ingeniería
-* Daniela Paciel - Médica, intensivista, infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina
-* Javier Pintos - Instituto de Higiene, Facultad de Medicina
-* Héctor Romero (Yuyo) - PhD en genómica. Secc. Evolución del Genoma, Facultad de Ciencias
-* Juan Ignacio Sanguinetti - PhD en neurociencia, Secc. Neurociencias, Facultad de Ciencias / Harvard University.
+* Daiana Mir - PhD en Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte. 
+* Guillermo Moncecchi - PhD en Procesamiento de Lenguaje Natural. Instituto de Computación, Facultad de Ingeniería.
+* Daniela Paciel - Médica, Intensivista, Infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina
+* Javier Pintos - 
+* Héctor Romero - PhD en Genómica. Sección Evolución del Genoma, Facultad de Ciencias.
+* Juan Ignacio Sanguinetti - PhD en Neurociencia. Sección Neurociencias, Facultad de Ciencias / Harvard University.
