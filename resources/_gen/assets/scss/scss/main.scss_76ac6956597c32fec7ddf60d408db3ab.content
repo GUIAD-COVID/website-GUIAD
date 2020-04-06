@@ -8452,7 +8452,9 @@ ul.share li:hover i {
 
 .hero-lead {
   max-width: 768px;
-  font-size: 1.35rem; }
+  font-size: 1.1rem;
+  text-align: justify;
+  text-justify: inter-word; }
 
 .wg-hero.dark .hero-title,
 .wg-hero.dark .hero-lead,
