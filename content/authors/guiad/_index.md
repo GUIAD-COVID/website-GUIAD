@@ -63,7 +63,7 @@ user_groups:
 * María Inés Fariello - PhD en Ecología, Biodiversidad y Evolución. Genética de poblaciones. IMERL, Facultad de Ingeniería, UdelaR.
 * Marcelo Fiori - PhD en Ingeniería Eléctrica. Grafos, Machine Learning, Optimización. IMERL, Facultad de Ingeniería, UdelaR.
 * Juan José Goyeneche -  PhD en Estadística. IESTA, Facultad de Ciencias Económicas, UdelaR.
-* Daniel Herrera - MSc en Neurociencia. Sección Neurociencias, Facultad de Ciencias, UdelaR.
+* Daniel Herrera - Lic. en Neurociencia. Sección Neurociencias, Facultad de Ciencias, UdelaR.
 * Pablo Inchausti - PhD en Ecología. Cure Maldonado, UdelaR.
 * Gregorio Iraola - PhD en Ciencias Biológicas. Genómica Microbiana Instituto Pasteur Montevideo.
 * Federico Lecumberry - PhD en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR.
