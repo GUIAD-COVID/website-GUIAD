@@ -78,7 +78,8 @@ El grupo GUIAD-COVID19 está integrado por investigadores de diferentes áreas, 
 * Federico Lecumberry - PhD en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería
 * Daiana Mir - PhD en Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte. 
 * Guillermo Moncecchi - PhD en Procesamiento de Lenguaje Natural. Instituto de Computación, Facultad de Ingeniería.
+* Hugo Naya - PhD en Genética. Unidad de Bioinformática (IPM) / Departamento de Producción Animal y Pasturas, Facultad de Agronomía. 
 * Daniela Paciel - Médica, Intensivista, Infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina
-* Javier Pintos - 
+* Javier Pintos - Médico, Instituto de Higiene, Facultad de Medicina.
 * Héctor Romero - PhD en Genómica. Sección Evolución del Genoma, Facultad de Ciencias.
 * Juan Ignacio Sanguinetti - PhD en Neurociencia. Sección Neurociencias, Facultad de Ciencias / Harvard University.
