@@ -80,6 +80,8 @@ El grupo GUIAD-COVID19 está integrado por investigadores de diferentes áreas, 
 * Guillermo Moncecchi - PhD en Procesamiento de Lenguaje Natural. Instituto de Computación, Facultad de Ingeniería.
 * Hugo Naya - PhD en Genética. Unidad de Bioinformática (IPM) / Departamento de Producción Animal y Pasturas, Facultad de Agronomía. 
 * Daniela Paciel - Médica, Intensivista, Infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina
+* Marcela Peláez - PhD Física, Sistemas fuertemente correlacionados, IFFI, facultad de Ingeniería.
 * Javier Pintos - Médico, Instituto de Higiene, Facultad de Medicina.
 * Héctor Romero - PhD en Genómica. Sección Evolución del Genoma, Facultad de Ciencias.
 * Juan Ignacio Sanguinetti - PhD en Neurociencia. Sección Neurociencias, Facultad de Ciencias / Harvard University.
+* Nicolás Wschebor - PhD Física, Sistemas fuertemente correlacionados, IFFI, Facultad de Ingeniería.
