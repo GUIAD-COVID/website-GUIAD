@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Grupo Uruguayo Interdisciplinario de Análisis de Datos - Covid 19"
+title = "Grupo Uruguayo Interdisciplinario de Análisis de Datos - COVID 19"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "logo.jpg"
@@ -39,9 +39,9 @@ hero_media = "logo.jpg"
 
 +++
 
-En Diciembre del 2019 se detectó un nuevo tipo de coronavirus en humanos llamado SARS-CoV-2, que resulta en muchos casos en la enfermedad conocida como Covid-19. En los meses siguientes al origen del brote hemos visto cómo el virus se esparce en el mundo, llegando a contagiar a cientos de miles de personas alrededor del mundo. En Uruguay se diagnosticaron los primeros casos de Covid-19 el 13 de Marzo y desde entonces nuestro país, como muchos otros en el mundo, se encuentra en estado de alerta sanitaria.
+En Diciembre del 2019 se detectó un nuevo tipo de coronavirus en humanos llamado SARS-CoV-2, que resulta en muchos casos en la enfermedad conocida como COVID-19. En los meses siguientes al origen del brote hemos visto cómo el virus se esparce en el mundo, llegando a contagiar a cientos de miles de personas alrededor del mundo. En Uruguay se diagnosticaron los primeros casos de COVID-19 el 13 de Marzo y desde entonces nuestro país, como muchos otros en el mundo, se encuentra en estado de alerta sanitaria.
 
-Dada las características de expansión del virus a nivel mundial, su velocidad de contagio y el potencial negativo en la salud de nuestra población y en todo el sistema de salud, formamos un grupo de científicos de múltiples disciplinas para trabajar en análisis de datos de Covid-19. Nuestro grupo GUIAD-Covid19 (Grupo Uruguayo Interdisciplinario de Análisis de Datos - Covid 19)) fue creado con el objetivo de rápidamente seguir la situación en Uruguay con los datos disponibles, modelar la dinámica de la enfermedad e idear nuevos trabajos a partir de nuevos datos que vayan surgiendo. Nuestro objetivo es hacer reportes técnicos que informen a la academia uruguaya y a la sociedad en general, incluyendo la construcción de modelos de la enfermedad, estimaciones de su crecimiento y prevalencia, así como sobre la situación de la epidemia en Uruguay.
+Dada las características de expansión del virus a nivel mundial, su velocidad de contagio y el potencial negativo en la salud de nuestra población y en todo el sistema de salud, formamos un grupo de científicos de múltiples disciplinas para trabajar en análisis de datos de COVID-19. Nuestro grupo GUIAD-COVID19 (Grupo Uruguayo Interdisciplinario de Análisis de Datos - COVID 19)) fue creado con el objetivo de rápidamente seguir la situación en Uruguay con los datos disponibles, colaborar en el aumento en cantidad y calidad de datos disponibles, modelar la dinámica de la enfermedad e idear nuevas colaboraciones interdisciplinarias a partir de nuevos datos. Uno de nuestros objetivos específicos es hacer reportes técnicos que informen a la academia uruguaya y a la sociedad en general. Nuestras actividades incluyen la construcción de modelos de la enfermedad, estimaciones de su crecimiento y prevalencia, así como sobre los posibles impactos de la epidemia en Uruguay.
 
 En este sitio encontrará los reportes técnicos generados, datos de relevancia, y algunos links debidamente curados a artículos, repositorios de datos y visualizaciones que puedan servir como aporte para cumplir los objetivos y eventualmente ayudar en la toma de decisiones.
 
