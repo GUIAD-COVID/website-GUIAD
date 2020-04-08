@@ -74,6 +74,7 @@ user_groups:
 * Daniela Paciel - Médica, Intensivista, Infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina, UdelaR.
 * Marcela Peláez - Dr. en Física, Sistemas fuertemente correlacionados, IFFI, Facultad de Ingeniería, UdelaR.
 * Javier Pintos - Médico, Instituto de Higiene, Facultad de Medicina, UdelaR.
+* Jaqueline Ponzo - Médica, Medicina Familiar y Comunitaria, Facultad de Medicina, UdelaR.
 * Héctor Romero - Dr. en Genómica. Sección Evolución del Genoma, Facultad de Ciencias, UdelaR.
 * Juan Ignacio Sanguinetti - Dr. en Neurociencias. Sección Neurociencias, Facultad de Ciencias, UdelaR. 
 * Nicolás Wschebor - Dr. en Física, Sistemas fuertemente correlacionados, IFFI, Facultad de Ingeniería, UdelaR.
