@@ -59,6 +59,7 @@ user_groups:
 * Álvaro Cabana - Dr. en Biofísica. Redes neurales. CIBPsi / IFyM, Facultad de Psicología, UdelaR.
 * Luis Claro - Lic. en Biofísica. Modelado de epidemias. Sección Biofísica, Facultad de Ciencias, UdelaR.
 * Natalia da Silva - Dr. en Estadística. IESTA, Facultad de Ciencias Económicas, UdelaR.
+* Eduardo de Mello Volotão- Dr. en Ciencias Microbiológicas, Instituto de Investigaciones Biológicas Clemente Estable.
 * Lorena Etcheverry - Dr. en Computación.  Gestión de datos.  Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * María Inés Fariello - Dr. en Ecología, Biodiversidad y Evolución. Genética de poblaciones. IMERL, Facultad de Ingeniería, UdelaR.
 * Marcelo Fiori - Dr. en Ingeniería Eléctrica. Grafos, Machine Learning, Optimización. IMERL, Facultad de Ingeniería, UdelaR.
