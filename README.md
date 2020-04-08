@@ -16,7 +16,7 @@ Las instrucciones generales son las siguientes:
 
 `hugo server`
 
-Esto levantará el sitio en localhost:1313/
+Esto levantará el sitio en http://localhost:1313/
 
 Lo dejamos corriendo, que el sitio se va a regenerar automáticamente cada vez que haya un cambio .
 
