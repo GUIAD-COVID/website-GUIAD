@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Recursos externos"
-subtitle = "En esta página dejaremos disponibles links (debidamente curados) con información relevante sobre la situación de la enfermedad en Uruguay y el mundo, así cómo modelos o aproximaciones basadas en datos a los diferents problemas planteados entre los objetivos del grupo."
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,21 +47,27 @@ subtitle = "En esta página dejaremos disponibles links (debidamente curados) co
  css_class = ""
 +++
 
-# Observatorios
+En esta página dejaremos disponibles enlaces (debidamente curados) con información relevante sobre la situación de la enfermedad en Uruguay y el mundo, así como modelos o aproximaciones basadas en datos a los diferents problemas planteados entre los objetivos del grupo.
 
-[Monitor COVID Uruguay (Institut Pasteur)](http://pasteur.uy/monitor-covid-19/) - Visualizaciones de los datos de análisis realizados y casos detectados en Uruguay. Incluye información separada por departamentos, entre otras. 
+## COVID-19 en Uruguay
+[Monitor COVID Uruguay](http://pasteur.uy/monitor-covid-19/) - Visualizaciones de los datos de análisis realizados y casos detectados en Uruguay. Incluye información separada por departamentos, entre otras. Mantenido por el [Instituto Pasteur Uruguay](http://pasteur.uy/)  
 
-[Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) - Diferentes visualizaciones actualizadas diariamente sobre el avance de muertes y casos confirmados, país por país. Incluye también información sobre la cantidad de tests que se están haciendo en diferentes países.
+[Información y divulgación #COVID-19 Uruguay](http://coronavirus.iibce.edu.uy/) - Portal de información que busa "aportar un canal de comunicación abierto y directo con la población, además de información segura y accesible". Mantenido por el [Instituto de Investigaciones Biológicas Clemente Estable](http://www.iibce.edu.uy/)
+
+## Repositorios de datos internacionales
+
+[European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) - Repositorio actualizado del Centro Europeo para Prevención y Control de Enfermedades. Incluye además de datos actualizados diariamente, de todo el mundo, noticias, publicaciones y eventos. 
+
+[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) - Repositorio actualizado con información diaria, consolidado a partir de diferentes fuentes. También incluye algunas visualizaciones 
+
+
+## Visualizaciones
+
+[Coronavirus Disease (COVID-19) – Statistics and Research](https://ourworldindata.org/coronavirus) - Diferentes visualizaciones actualizadas diariamente sobre el avance de muertes y casos confirmados, país por país. Incluye también información sobre la cantidad de tests que se están haciendo en diferentes países. Mantenido por la organización [Our World in Data](https://ourworldindata.org/about). 
 
 [Covid-19: active cases and extrapolation](https://covid19-dash.github.io/) - Visualización del avance de casos detectados país a país, permitiendo comparar. Incluye una predicción extrapolando la tasa de crecimiento de cada país en los últimos 14 días. A partir de los datos publicados por Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE).
 
-[Crecimiento de COVID-19 en Sudamérica](https://uscovid-19.shinyapps.io/covid-19-sa/) - Visualización del avance en Sudamérica del virus. Incluye la posibilidad de ver las acciones tomadas por los gobiernos, normalizar los datos, y utilizar períodos de tiempo relativos a la aparición de los primeros 500 casos.
+[Crecimiento de COVID-19 en Sudamérica](https://uscovid-19.shinyapps.io/covid-19-sa/) - Visualización del avance en Sudamérica del virus. Incluye la posibilidad de ver las acciones tomadas por los gobiernos, normalizar los datos, y utilizar períodos de tiempo relativos a la aparición de los primeros 500 casos. Desarrollado por Juan Ignacio Sanguinetti para Sudamérica, en base a desarrollo de Jenny Chen. 
 
-[CoVID 19 Worldwide Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/) - Visualización del número de casos versus los días, agrupados por países geográficamente cercanos. Datos y comentarios actualizados diariamente.
+[CoVID 19 Worldwide Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/) - Visualización del número de casos versus los días, agrupados por países geográficamente cercanos. Datos y comentarios actualizados diariamente. Mantenido por [Mark Handley](http://www0.cs.ucl.ac.uk/staff/m.handley/), University College London. 
 
-# Repositorios de datos
-
-[European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) - Repositorio actualizado del Centro Europeo para Prevención y Control de Enfermedades. Incluye
-además de datos actualizados diariamente, de todo el mundo, noticias, publicaciones y eventos. 
-
-[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19) - Repositorio actualizado con información diaria, consolidado a partir de diferentes fuentes. También incluye algunas visualizaciones 
