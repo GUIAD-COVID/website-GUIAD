@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="http://localhost:1313/img/logo.png" alt="GUIAD-COVID"
+<img src="img/logo.png" alt="GUIAD-COVID"
 	class="left-image" width="25%">
 	
 <h1>Grupo Uruguayo Interdisciplinario de Análisis de Datos de
