@@ -5,14 +5,14 @@
 
 [[main]]
   name = "Inicio"
-  url = "#hero"
+  url = "#title"
   weight = 10
 
 
 [[main]]
   name = "Novedades"
   url = "#posts"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Reportes técnicos"

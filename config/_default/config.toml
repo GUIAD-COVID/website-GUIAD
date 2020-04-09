@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "GUIAD-Covid 19"
+title = "GUIAD-COVID-19"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -13,7 +13,7 @@ baseurl = "https://GUIAD-COVID.github.io"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy GUIAD-Covid 19 {year}"
+copyright = "&copy; GUIAD-COVID-19 ({year})"
 
 ############################
 ## Advanced options below ##
