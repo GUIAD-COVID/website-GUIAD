@@ -25,7 +25,7 @@ publication_types: ["4"]
 publication: ""
 publication_short: ""
 
-abstract: En esta segunda nota se analiza la dinámica de crecimiento en el comienzo de la epidemia de Covid-19 en Uruguay. Se observa que el crecimiento de los casos confirmados hasta el momento en nuestro país es subexponencial. Se analizan posibles explicaciones para este fenómeno que pueden resumirse en  efectos de muestreo y/o mecanismos reales del desarrollo de la epidemia. En ambos casos el análisis brinda información a ser considerada sobre el avance y/o registro de la enfermedad. Se advierte finalmente sobre la posibilidad de una rápida transición a un régimen de crecimiento exponencial. 
+abstract: En esta segunda nota se analiza la dinámica de crecimiento en el comienzo de la epidemia de Covid-19 en Uruguay. Se observa que el crecimiento de los casos confirmados hasta el momento en nuestro país es subexponencial. Se analizan posibles explicaciones para este fenómeno que pueden resumirse en  efectos de muestreo y/o mecanismos reales del desarrollo de la epidemia. En ambos casos el análisis brinda información a ser considerada sobre el avance y/o registro de la enfermedad. Se advierte finalmente sobre la posibilidad de una rápida transición a un régimen de crecimiento exponencial.  [Descargar reporte completo (PDF)](publication/nota2/Nota_2_Crecimiento_Subexponencial_GUIAD-Covid19.pdf)
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
