@@ -50,6 +50,10 @@ subtitle = ""
 En esta página dejaremos disponibles enlaces (debidamente curados) con información relevante sobre la situación de la enfermedad en Uruguay y el mundo, así como modelos o aproximaciones basadas en datos a los diferents problemas planteados entre los objetivos del grupo.
 
 ## COVID-19 en Uruguay
+
+[Visualizador de casos coronavirus COVID-19 en Uruguay](https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay) - Datos oficiales del gobierno uruguayo, a través del [Sistema Nacional de Emergencias](https://www.gub.uy/sistema-nacional-emergencias/). Incluye datos de análisis realizados, casos confirmados, personas en cuidados intensivos y en CTI, entre otros. 
+
+
 [Monitor COVID Uruguay](http://pasteur.uy/monitor-covid-19/) - Visualizaciones de los datos de análisis realizados y casos detectados en Uruguay. Incluye información separada por departamentos, entre otras. Mantenido por el [Instituto Pasteur Uruguay](http://pasteur.uy/)  
 
 [Información y divulgación #COVID-19 Uruguay](http://coronavirus.iibce.edu.uy/) - Portal de información que busa "aportar un canal de comunicación abierto y directo con la población, además de información segura y accesible". Mantenido por el [Instituto de Investigaciones Biológicas Clemente Estable](http://www.iibce.edu.uy/)
