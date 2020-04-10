@@ -69,5 +69,5 @@ En esta página dejaremos disponibles enlaces (debidamente curados) con informac
 
 [Crecimiento de COVID-19 en Sudamérica](https://uscovid-19.shinyapps.io/covid-19-sa/) - Visualización del avance en Sudamérica del virus. Incluye la posibilidad de ver las acciones tomadas por los gobiernos, normalizar los datos, y utilizar períodos de tiempo relativos a la aparición de los primeros 500 casos. Desarrollado por Juan Ignacio Sanguinetti para Sudamérica, en base a desarrollo de Jenny Chen. 
 
-[CoVID 19 Worldwide Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/) - Visualización del número de casos versus los días, agrupados por países geográficamente cercanos. Datos y comentarios actualizados diariamente. Mantenido por [Mark Handley](http://www0.cs.ucl.ac.uk/staff/m.handley/), University College London. 
+[CoVID 19 Worldwide Growth Rates](http://nrg.cs.ucl.ac.uk/mjh/covid19/) - Visualización del número de casos versus los días, agrupados por países geográficamente cercanos. Datos y comentarios actualizados diariamente. Mantenido por [Mark Handley](http://www0.cs.ucl.ac.uk/staff/m.handley/), University College London.. 
 
