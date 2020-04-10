@@ -50,8 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<img src="img/logo.png" alt="GUIAD-COVID"
-	class="left-image" width="25%">
+<img src="img/logo.png" alt="GUIAD-COVID" id="title">
 	
-<h1>Grupo Uruguayo Interdisciplinario de Análisis de Datos de
+<h1 id="title">Grupo Uruguayo Interdisciplinario de Análisis de Datos de
 COVID&#8209;19</h1>
