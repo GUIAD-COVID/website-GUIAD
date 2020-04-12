@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 110  # Order that this section will appear in.
 
-title = "Quiénes somos GUIAD-COVID-19"
+title = "¿Quiénes somos GUIAD&#8209;COVID&#8209;19?"
 
 # Choose the user profile to display
 # This should be the username of a profile in your `content/authors/` folder.
