@@ -46,4 +46,4 @@ El análisis de los datos relacionados a COVID-19 y el modelado matemático de l
 
 En este sitio estarán disponibles [reportes técnicos](#publications) elaborados, [repositorios de datos](data) utilizados y generados y sus visualizaciones, así como algunos [enlaces](links) debidamente curados a artículos.
 
-Conozca más sobre nuestros [objetivos y organización](objetivos).;
+Conozca más sobre nuestros [objetivos y organización](objetivos).
