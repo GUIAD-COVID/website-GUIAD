@@ -44,6 +44,6 @@ La enfermedad COVID-19 generada por el coronavirus SARS-CoV-2 se ha transformado
 
 El análisis de los datos relacionados a COVID-19 y el modelado matemático de la dinámica de la epidemia se convierten en herramientas que permiten analizar posibles escenarios futuros frente a medidas de mitigación y control del impacto. El _Grupo Uruguayo Interdisciplinario de Análisis de Datos de COVID-19_ (GUIAD-COVID-19) surge con el [objetivo](objetivos) de colaborar en este tipo de análisis y modelado en el caso de Uruguay.
 
-En este sitio estarán disponibles [reportes técnicos](#publications) elaborados, [repositorios de datos](datos) utilizados y generados y sus visualizaciones, así como algunos [enlaces](links) debidamente curados a artículos.
+En este sitio estarán disponibles [reportes técnicos](#publications) elaborados, [repositorios de datos](data) utilizados y generados y sus visualizaciones, así como algunos [enlaces](links) debidamente curados a artículos.
 
 Conozca más sobre nuestros [objetivos y organización](objetivos).
