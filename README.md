@@ -15,10 +15,10 @@ Las instrucciones generales son las siguientes:
 
 1. Para comenzar a trabajar, y sólo la primera vez, clonar localmente el repositorio remoto usando el siguiente comando, el cual habilita los submodulos
 
-`git clone https://github.com/GUIAD-COVID/website-GUIAD.git
-cd website-GUIAD/public
-git submodule init
-git submodule update
+`git clone https://github.com/GUIAD-COVID/website-GUIAD.git;
+cd website-GUIAD/public;
+git submodule init;
+git submodule update;
 git checkout master`
 
 Si el repositorio ya ha sido clonado localmente, recordar hacer `git pull` antes de comenzar a trabajar, para trabajar sobre la última versión del código.
