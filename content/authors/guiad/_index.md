@@ -49,8 +49,16 @@ user_groups:
 - Visitors
 ---
 
-Somos un grupo de científicos e investigadores uruguayos de diferentes disciplinas e instituciones reunidos con el objetivo de aportar en la mitigación del impacto del COVID-19 a partir del análisis de datos relacionados con esta enfermedad.
+Somos un grupo de científicos e investigadores uruguayos de diferentes
+disciplinas e instituciones reunidos con el objetivo de aportar en la
+mitigación del impacto del COVID-19 a partir del análisis de datos
+relacionados con esta enfermedad.
 
-Buscamos aportar desde un conjunto amplio de formaciones que cubren diferentes disciplinas (Biología, Biofísica, Ingeniería, Ecología, Matemática, Medicina, Sociología, entre otras) para el modelado matemático de la dinámica de la enfermedad.
+Buscamos aportar desde un conjunto amplio de formaciones que cubren
+diferentes disciplinas (Biología, Biofísica, Ingeniería, Ecología,
+Matemática, Medicina, Sociología, entre otras) para el modelado
+matemático de diferentes aspectos de la enfermedad, por ejemplo, su
+dinámica.
 
-Una lista de los integrantes de este grupo se puede consultar [aquí](/integrantes).
+Una lista de los integrantes de este grupo se puede consultar
+[aquí](/integrantes).
