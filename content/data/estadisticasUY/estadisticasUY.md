@@ -1,6 +1,6 @@
 ---
 title: Estadísticas de todo el país
-linktitle: Descripción y enlaces (todo el pais)
+linktitle: Descripción y enlaces (todo el país) 
 toc: true
 type: docs
 date: "2020-04-12T00:00:00Z"
