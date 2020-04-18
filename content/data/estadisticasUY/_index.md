@@ -22,7 +22,7 @@ menu:
 ---
 
 
-
+ 
 ## Descripción
 
 A partir de los comunicados publicados diariamente por el [SINAE](https://www.gub.uy/sistema-nacional-emergencias/comunicacion/comunicados) y de los datos disponibles diariamente en el [Visualizador de casos coronavirus COVID-19 en Uruguay](https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay) extraemos variables epidemiológicas sobre COVID-19 en Uruguay, y las publicamos como Datos Abiertos.
