@@ -29,5 +29,7 @@ A partir de los comunicados publicados diariamente por el [SINAE](https://www.gu
 
 Los conjuntos de datos son dos:
 
-* [Estadísticas de todo el pais](./estadisticasuy/)
+* [Estadísticas de todo el pais](./estadisticasuy/) - [Visualizar](/chart_estadisticasUY.html)
 * [Estadísticas por departamento](./estadisticasuy_dpto/)
+
+
