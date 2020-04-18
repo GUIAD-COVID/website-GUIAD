@@ -65,7 +65,7 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * María Inés Fariello - Dr. en Ecología, Biodiversidad y Evolución. Genética de poblaciones. IMERL, Facultad de Ingeniería, UdelaR.
 * Marcelo Fiori - Dr. en Ingeniería Eléctrica. Grafos, Machine Learning, Optimización. IMERL, Facultad de Ingeniería, UdelaR.
 * Juan José Goyeneche - Dr. en Estadística. IESTA, Facultad de Ciencias Económicas, UdelaR.
-* Daniel Herrera - Lic. en Neurociencia. Sección Neurociencias, Facultad de Ciencias, UdelaR.
+* Daniel Herrera - Lic. en Bioquímica. Sección Neurociencias, Facultad de Ciencias, UdelaR.
 * Pablo Inchausti - Dr. en Ecología. CURE Maldonado, UdelaR.
 * Gregorio Iraola - Dr. en Ciencias Biológicas. Genómica Microbiana Instituto Pasteur Montevideo.
 * Federico Lecumberry - Dr. en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR.
