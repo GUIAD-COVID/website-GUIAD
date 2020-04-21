@@ -1,10 +1,9 @@
 ---
 # Display name
-name: Alicia Aleman
-
+name: Paola Bermolen
 # Username (this should match the folder name)
 authors:
-- aaleman
+- pbermolen
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +13,7 @@ role: Investigador
 
 # Organizations/Affiliations
 organizations:
-- name: Facultad de Medicina - Universidad de la República
+- name: Facultad de Ingeniería - Universidad de la República
   url: ""
 
 
@@ -32,9 +31,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
+# icon: twitter
 #  icon_pack: fab
-#  link: 
+#  link: https://twitter.com/MaineFariello
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/GUIAD-COVID
