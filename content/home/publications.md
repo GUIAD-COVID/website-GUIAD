@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Reportes técnicos"
-subtitle = "En esta sección publicaremos los informes técnicos que el grupo vaya produciendo, junto con una breve explicación sobre sus principales conclusiones. Por un resumen de contexto completo sobre la enfermedad COVID-19, recomendamos leer esta [nota informativa](https://medium.com/@dherrera1911/coronavirus-resumen-de-la-ciencia-y-noticias-por-un-inexperto-informado-980fe23da471), elaborada a mediados de marzo de 2020 por Daniel Herrera, integrante del grupo GUIAD-COVID-19"
+subtitle = "En esta sección publicaremos los informes técnicos que el grupo vaya produciendo, junto con una breve explicación sobre sus principales conclusiones.  Los reportes aquí publicados pasan por un estricto [proceso de revisión](proceso_editorial)."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

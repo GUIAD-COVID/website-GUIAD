@@ -48,13 +48,13 @@ subtitle = ""
 +++
 
 
-En el espacio GUIAD-COVID-19 consideramos especialmente importante que los reportes producidos sobre distintos aspectos del comportamiento de la epidemia en Uruguay pasen por un riguroso proceso de revisión. Esto, que es siempre importante en un ámbito científico, se vuelve particularmente relevante en este caso, por dos motivos principales:  en primer lugar, nuestro trabajo es fuertemente interdisciplinario y, por ende, los reportes incorporan múltiples enfoques sobre cada tema, que deben ser revisados y armonizados;  por otra parte, el impacto del virus COVID-19 en la sociedad toda exige un cuidado extremo en los mensajes que damos como científicos, evitando afirmaciones especulativas o de insuficiente base empírica.
+En el espacio GUIAD-COVID-19 consideramos especialmente importante que los reportes producidos sobre distintos aspectos del comportamiento de la epidemia en Uruguay pasen por un riguroso proceso de revisión. Esto, que es siempre importante en un ámbito científico, se vuelve particularmente relevante en este caso, por dos motivos principales:  en primer lugar, nuestro trabajo es fuertemente interdisciplinario y, por ende, los reportes incorporan múltiples enfoques sobre cada tema, que deben ser revisados y armonizados;  por otra parte, el impacto de la COVID-19 en la sociedad toda exige un cuidado extremo en los mensajes que damos como científicos, evitando afirmaciones especulativas o de insuficiente base empírica.
 
 Los pasos del proceso son los siguientes:
 
 1. Grupos independientes realizan trabajo de estudio y modelado, recopilación bibliográfica, etc.
 2. Estos grupos generan un Reporte caratulado como Borrador Nivel 1. 
-3. Los Borradores Nivel 1 son revisados y criticados en detalle por al menos tres investigadores de GUIAD-COVID-19 que no habían participaron directamente en la elaboración trabajo.
+3. Los Borradores Nivel 1 son revisados y criticados en detalle por al menos tres investigadores de GUIAD-COVID-19 que no habían participaron directamente en la elaboración del trabajo.
 4. Los autores generan un segundo Borrador (Nivel 2) a partir de las críticas y revisiones del paso anterior, incluyendo en algunos casos extensión y/o reformulación de partes del trabajo.
 5. El Borrador ya revisado y reescrito (Nivel 2) es enviado de forma confidencial a tres grupos:
     * Anticipo de reporte para Comunicación GUIAD: se envía un anticipo para planificar la publicación del reporte y escribir un resumen del artículo.

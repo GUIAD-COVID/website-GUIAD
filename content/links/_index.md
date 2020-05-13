@@ -48,6 +48,7 @@ subtitle = ""
 +++
 
 En esta página dejaremos disponibles enlaces (debidamente curados) con información relevante sobre la situación de la enfermedad en Uruguay y el mundo, así como modelos o aproximaciones basadas en datos a los diferents problemas planteados entre los objetivos del grupo.
+Por un resumen de contexto completo sobre la enfermedad COVID-19, recomendamos leer esta [nota informativa](https://medium.com/@dherrera1911/coronavirus-resumen-de-la-ciencia-y-noticias-por-un-inexperto-informado-980fe23da471), elaborada a mediados de marzo de 2020 por Daniel Herrera, integrante del grupo GUIAD-COVID-19.
 
 ## COVID-19 en Uruguay
 
