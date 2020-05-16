@@ -32,7 +32,7 @@ projects: []
 ---
 
 
-Los dos reportes ahondan en una serie de ideas que creemos son importantes comprender a esta altura de la situación. Se basan en el análisis de datos de Covid-19 en Uruguay, en el estudio de modelos internacionales y en bagaje académico de las áreas de matemática, computación, epidemiología, ecología y medicina. Puede descargarlos desde la sección [Reportes Técnicos](#publications).
+Los dos reportes ahondan en una serie de ideas que creemos son importantes comprender a esta altura de la situación. Se basan en el análisis de datos de Covid-19 en Uruguay, en el estudio de modelos internacionales y en bagaje académico de las áreas de matemática, computación, epidemiología, ecología y medicina. Puede descargarlos desde la sección [Reportes Técnicos](/#publications).
 
 Modelar la dinámica de la enfermedad en Uruguay en tiempo real es muy valioso pero es difícil, debido a la alta tasa de contagio de la enfermedad, su tiempo de incubación, la gran variedad de cuadros en los que se presenta, pasando desapercibida en un gran porcentaje de infectados, hasta la internación en otro tanto y la heterogeneidad de sus efectos según la edad.
  
