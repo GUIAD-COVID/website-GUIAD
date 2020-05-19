@@ -59,6 +59,9 @@ Por un resumen de contexto completo sobre la enfermedad COVID-19, recomendamos l
 
 [Información y divulgación #COVID-19 Uruguay](http://coronavirus.iibce.edu.uy/) - Portal de información que busa "aportar un canal de comunicación abierto y directo con la población, además de información segura y accesible". Mantenido por el [Instituto de Investigaciones Biológicas Clemente Estable](http://www.iibce.edu.uy/)
 
+[Coronavirus en Uruguay](https://www.coronabicho.uy/) - Este portal se plantea razonar sobre la respuesta a la pregunta: "¿Cómo va a ser el fin de la epidemia?, desde un punto de vista epidemiológico y estadístico. Desarrollado por Antonio Montalbán. Matemático, uruguayo, profesor en la Universidad de California, Berkeley. 
+ y Natalia Bottaioli.
+
 ## Repositorios de datos internacionales
 
 [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en) - Repositorio actualizado del Centro Europeo para Prevención y Control de Enfermedades. Incluye además de datos actualizados diariamente, de todo el mundo, noticias, publicaciones y eventos. 
