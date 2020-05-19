@@ -57,6 +57,7 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Juan Manuel Barreneche - MSc en Ecología. Modelado de ecología poblacional y comunitaria. DINAMA.
 * Paola Bermolen - Dr. en Informática y Redes. Modelos Estocásticos de Redes de Datos. IMERL, Facultad de Ingeniería, UdelaR.
 * Horacio Botti - Médico, Dr. en Biofísica de Proteínas. Dep. Biofísica, Facultad de Medicina, UdelaR.
+* Germán Botto - Lic. en Biologia Humana. Dpto. Métodos Cuantitativos, Facultad de Medicina, UdelaR
 * Nicolás Brunet - Dr. en Ciencia Social, Dr. Demografía. Instituto de Psicología de la Salud, Facultad de Psicología, UdelaR.
 * Álvaro Cabana - Dr. en Biofísica. Redes neurales. CIBPsi / IFyM, Facultad de Psicología, UdelaR.
 * Luis Claro - Lic. en Biofísica. Modelado de epidemias. Sección Biofísica, Facultad de Ciencias, UdelaR.
