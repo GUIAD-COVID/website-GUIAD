@@ -14,7 +14,45 @@ menu:
 weight: 1
 ---
 
+Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).
+
+
+## Origen de los datos
+
+Hasta el 7/4/2020 los datos son extraídos de los [informes de situación publicados por el MSP](https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay).
+El valor `N/A` se utiliza para indicar valores no disponibles o faltantes en los reportes.
+
+A partir del 9/4/2020 los datos se extraen del [Visualizador de casos coronavirus COVID-19 en Uruguay] (https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay)
+
+
+
+## Enlaces
+
+* [Cantidad de activos por departamento en formato CSV](https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto.csv)
+
+* [Datos detallados por departamento en formato CSV](https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto_detalle.csv)
+
+
 ## Metadatos
+
+### Metadatos para los datos detallados de cada departamento
+
+Columna   | Descripción
+----------|---------------------------------------------------
+fecha	  |día calendario en que se informaron estos datos
+departamento	    | departamento de Uruguay 
+enCurso |	cantidad de personas que actualmente cursan la infección
+cantCasosNuevos| **cantidad de casos nuevos** <sup>2</sup> identificados ese dia 
+cantFallecidos |	cantidad de fallecidos reportados ese día
+acumFallecidos |acumulado de la cantidad de fallecidos hasta ese día
+cantRecuperados	| cantidad de pacientes recuperados reportados ese día
+acumRecuperados |acumulado de la cantidad de recuperados hasta ese día
+acumCasos| cantidad de casos acumulados hasta el momento 
+
+
+<sup>2</sup> La cantidad de casos nuevos se computa como enCurso(hoy)-enCurso(ayer)+cantRecuperados(hoy)+cantFallecidos(hoy)
+
+### Metadatos para el total de activos por departamento
 
 Columna   | Descripción
 ----------|---------------------------------------------------
@@ -50,16 +88,7 @@ Antes del 9/4/2020:
 Luego del 9/4/2020
 * el número indica la cantidad de casos activos a esa fecha en ese departamento, los recuperados se van restando.
 
-## Origen de los datos
-
-Hasta el 7/4/2020 los datos son extraídos de los [informes de situación publicados por el MSP](https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay).
-El valor `N/A` se utiliza para indicar valores no disponibles o faltantes en los reportes.
-
-A partir del 9/4/2020 los datos se extraen del [Visualizador de casos coronavirus COVID-19 en Uruguay] (https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay)
 
 
 
-## Enlaces
 
-* [Datos en formato CSV](https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto.csv)
-* [Metadatos](https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/explica_estadisticasUY_porDepto.md)
