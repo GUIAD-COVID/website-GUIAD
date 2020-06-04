@@ -44,6 +44,7 @@ El valor `N/A` se utiliza para indicar valores no disponibles o faltantes en los
 
 <sup>2</sup> A partir del 9/4 este valor se obtiene como (cantPersonasConInfeccionEnCurso +acumRecuperados+cantFallecidos). Antes del 8/4, el valor de cantPersonasConInfeccionEnCurso no se conoce y por lo tanto este valor se estima. Esta estimación se hace distribuyendo la diferencia entre numero de test positivos y numero de personas positivas al 9/4 (22, o sea 22 tests dobles) en los 11 días anteriores, a 2 extra por dia.
 
+
 <sup>3</sup> La cantidad de casos nuevos se computa como cantPersonasConInfeccionEnCurso(hoy)-cantPersonasConInfeccionEnCurso(ayer)+cantRecuperados(hoy)+cantFallecidos(hoy)
 
 
