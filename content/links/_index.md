@@ -54,13 +54,16 @@ Por un resumen de contexto completo sobre la enfermedad COVID-19, recomendamos l
 
 [Visualizador de casos coronavirus COVID-19 en Uruguay](https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay) - Datos oficiales del gobierno uruguayo, a través del [Sistema Nacional de Emergencias](https://www.gub.uy/sistema-nacional-emergencias/). Incluye datos de análisis realizados, casos confirmados, personas en cuidados intensivos y en CTI, entre otros. 
 
-
 [Monitor COVID Uruguay](http://pasteur.uy/monitor-covid-19/) - Visualizaciones de los datos de análisis realizados y casos detectados en Uruguay. Incluye información separada por departamentos, entre otras. Mantenido por el [Instituto Pasteur Uruguay](http://pasteur.uy/)  
 
 [Información y divulgación #COVID-19 Uruguay](http://coronavirus.iibce.edu.uy/) - Portal de información que busa "aportar un canal de comunicación abierto y directo con la población, además de información segura y accesible". Mantenido por el [Instituto de Investigaciones Biológicas Clemente Estable](http://www.iibce.edu.uy/)
 
 [Coronavirus en Uruguay](https://www.coronabicho.uy/) - Este portal se plantea razonar sobre la respuesta a la pregunta: "¿Cómo va a ser el fin de la epidemia?, desde un punto de vista epidemiológico y estadístico. Desarrollado por Antonio Montalbán. Matemático, uruguayo, profesor en la Universidad de California, Berkeley. 
  y Natalia Bottaioli.
+
+[PROTECT: Desafíos de seguridad y privacidad en el diseño e
+implementación de soluciones de rastreo digital de
+proximidad](https://www.fing.edu.uy/inco/proyectos/protect/) - Al proyecto PROTECT lo conforma un equipo multi-disciplinario de docentes de la Universidad de la República cuyo trabajo se focaliza en investigar la problemática del uso de tecnologías digitales para implementar rastreo digital de proximidad con el objetivo de mejorar la eficacia del proceso de detección de contagios.
 
 ## Repositorios de datos internacionales
 
