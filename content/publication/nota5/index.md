@@ -8,7 +8,7 @@ authors:
 - dherrera
 - jrleon
 - hromero
-date: "2020-05-14"
+date: "2020-05-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -21,7 +21,7 @@ subtitle = "En esta sección publicaremos los informes técnicos que el grupo va
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "asc"
+  order = "desc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
