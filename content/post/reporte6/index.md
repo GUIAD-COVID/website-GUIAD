@@ -1,7 +1,7 @@
 ---
-title: 'Reporte 6 del grupo GUIAD-COVID 19'
+title: 'Reporte 6: Aplicaciones de seguimiento de contactos'
 subtitle: ''
-summary: 'Esta nota analiza el contexto y las características de las aplicaciones de seguimiento de contactos, con el objetivo de aportar al diseño de una política pública. Puede descargarse desde [Reportes técnicos](/#publications).'
+summary: 'Contexto, características, y aporte para el diseño de una política pública. Puede descargarse desde [Reportes técnicos](/#publications).'
 
 authors:
 - guiad

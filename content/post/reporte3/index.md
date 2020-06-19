@@ -1,7 +1,7 @@
 ---
-title: 'Reporte 3 del grupo GUIAD-COVID 19'
+title: 'Reporte 3: Análisis de reporte de casos'
 subtitle: ''
-summary: 'Está disponible un nuevo reporte que estima el porcentaje de reporte de casos de COVID-19 en Uruguay. Puede descargarse desde [Reportes técnicos](#publications).'
+summary: '¿Podemos estimar el  porcentaje de reporte de casos de COVID-19 en Uruguay?. Puede descargarse desde [Reportes técnicos](#publications).'
 
 authors:
 - guiad

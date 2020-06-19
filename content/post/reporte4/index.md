@@ -1,7 +1,7 @@
 ---
-title: 'Reporte 4 del grupo GUIAD-COVID 19'
+title: 'Reporte 4: Impacto de las medidas de control'
 subtitle: ''
-summary: 'Publicamos un nuevo reporte que analiza diferentes medidas de control para disminuir la transmisión del virus. Puede descargarse desde [Reportes técnicos](#publications).'
+summary: 'Análisis de diferentes medidas de control para disminuir la transmisión del virus. Puede descargarse desde [Reportes técnicos](#publications).'
 
 authors:
 - guiad

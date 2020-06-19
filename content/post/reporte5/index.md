@@ -1,7 +1,7 @@
 ---
-title: 'Reporte 5 del grupo GUIAD-COVID 19'
+title: 'Reporte 5: Número de compartimentos en la dinámica del COVID-19 en Uruguay'
 subtitle: ''
-summary: 'Publicamos un nuevo reporte que analiza una aproximación lineal de un modelo SEIR, la cual permite analizar el comportamiento de la cantidad de infectados. Puede descargarse desde [Reportes técnicos](#publications).'
+summary: 'Aproximación lineal de un modelo SEIR, y análisis del comportamiento de la cantidad de infectados. Puede descargarse desde [Reportes técnicos](#publications).'
 
 authors:
 - guiad
