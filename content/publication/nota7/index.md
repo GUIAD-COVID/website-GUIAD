@@ -27,7 +27,7 @@ publication_types: ["4"]
 publication: ""
 publication_short: ""
 
-abstract: "En esta nota se analiza el efecto de la movilidad en la tasa de contagio. Por un lado, se utiliza una aproximación lineal de un modelo compartimental tipo SEIR, que permite calcular de forma analítica las soluciones. Estas soluciones son combinaciones lineales de exponenciales, cuyos parámetros se estiman ajustando los datos publicados por el SINAE. Se argumenta que uno de estos parámetros, la tasa de crecimiento epidémico, se puede estimar de forma más robusta que el número básico de reproducción R. Se estima este parámetro para cada semana, y se realiza una regresión de estos valores a los datos de movilidad publicados por Google. Se concluye que la reducción de la movilidad tiene un impacto reducido en la caída de la tasa de contagio.[Descargar reporte completo (PDF)](Nota_7_Efecto_de_la_movilidad_GUIAD-Covid19.pdf)"
+abstract: "En esta nota se analiza el efecto de la movilidad en la tasa de contagio. Por un lado, se utiliza una aproximación lineal de un modelo compartimental tipo SEIR, que permite calcular de forma analítica las soluciones. Estas soluciones son combinaciones lineales de exponenciales, cuyos parámetros se estiman ajustando los datos publicados por el SINAE. Se argumenta que uno de estos parámetros, la tasa de crecimiento epidémico, se puede estimar de forma más robusta que el número básico de reproducción R. Se estima este parámetro para cada semana, y se realiza una regresión de estos valores a los datos de movilidad publicados por Google. Se concluye que la reducción de la movilidad tiene un impacto reducido en la caída de la tasa de contagio."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -70,4 +70,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+[Descargar reporte completo (PDF)](Nota_7_Efecto_de_la_movilidad_GUIAD-Covid19.pdf)
 
+[Anexo: actualización de datos hasta la semana del 26 de mayo](Nota_7_anexo_ajuste_actualizado.pdf)
