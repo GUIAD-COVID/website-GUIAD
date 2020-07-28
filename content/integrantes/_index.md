@@ -62,10 +62,12 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Álvaro Cabana - Dr. en Biofísica. Redes neurales. CIBPsi / IFyM, Facultad de Psicología, UdelaR.
 * Luis Claro - Lic. en Biofísica. Modelado de epidemias. Sección Biofísica, Facultad de Ciencias, UdelaR.
 * Natalia da Silva - Dr. en Estadística. IESTA, Facultad de Ciencias Económicas, UdelaR.
-* Eduardo de Mello Volotão- Dr. en Ciencias Microbiológicas, Instituto de Investigaciones Biológicas Clemente Estable.
+* Eduardo de Mello Volotão - Dr. en Ciencias Microbiológicas, Instituto de Investigaciones Biológicas Clemente Estable.
+* Martín Delgado - Arquitecto. Instituto de Teoría y Urbanismo, Facultad de Arquitectura, Diseño y Urbanismo, UdelaR.
 * Lorena Etcheverry - Dr. en Computación. Gestión de datos. Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * María Inés Fariello - Dr. en Ecología, Biodiversidad y Evolución. Genética de poblaciones. IMERL, Facultad de Ingeniería, UdelaR.
 * Marcelo Fiori - Dr. en Ingeniería Eléctrica. Grafos, Machine Learning, Optimización. IMERL, Facultad de Ingeniería, UdelaR.
+* Joaquín González Milburn - Instituto de Teoría y Urbanismo, Facultad de Arquitectura, Diseño y Urbanismo, UdelaR.
 * Juan José Goyeneche - Dr. en Estadística. IESTA, Facultad de Ciencias Económicas, UdelaR.
 * Mariana Guirado - Médica Internista e Infectóloga, Cátedra Enfermedades Infecciosas, UdelaR.
 * Daniel Herrera - Lic. en Bioquímica. Sección Neurociencias, Facultad de Ciencias, UdelaR.
