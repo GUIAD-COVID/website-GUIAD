@@ -31,7 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Fiestas, frigoríficos, residenciales de ancianos. Todos hemos visto, desde el comienzo de la pandemia, este tipo de eventos done un gran número de personas se contagia al mismo tiempo.
+Fiestas, frigoríficos, residenciales de ancianos. Todos hemos visto, desde el comienzo de la pandemia, este tipo de eventos donde un gran número de personas se contagia al mismo tiempo.
 Estos eventos, conocidos como eventos de supercontagio, presentan un riesgo importante para el manejo de la pandemia de COVID-19 en los próximos
 meses. En esta nota intentamos repasar la literatura existente sobre eventos de supercontagio en el mundo,  evaluar su importancia en el marco de
 la COVID-19, y presentar algunas posibles acciones que, a través del control de este tipo de
