@@ -1,11 +1,11 @@
 ---
 title: "Reporte 9: Dinámicas de COVID-19 a bajos números: estados alternativos y sus implicancias de manejo"
 authors:
-- marim
-- dherrera
 - pbermolen
+- dherrera
 - acabana
 - mfariello
+- marim
 - hromero
 
 date: "2020-09-25"
