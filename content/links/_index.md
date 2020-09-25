@@ -54,6 +54,10 @@ Por un resumen de contexto completo sobre la enfermedad COVID-19, recomendamos l
 
 [Visualizador de casos coronavirus COVID-19 en Uruguay](https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay) - Datos oficiales del gobierno uruguayo, a través del [Sistema Nacional de Emergencias](https://www.gub.uy/sistema-nacional-emergencias/). Incluye datos de análisis realizados, casos confirmados, personas en cuidados intensivos y en CTI, entre otros. 
 
+[Boletines epidemiológicos periódicos del Ministerio de Salud Pública](https://www.gub.uy/ministerio-salud-publica/tematica/boletines-epidemiologicos) - Informes publicados por el gobierno uruguayo sobre la situación nacional en referencia a COVID-19. Incluye caracterización de los casos y cadenas de transmisión.
+
+[Covid R Monitor](http://covid-r-monitor.herokuapp.com/) - Estimación de la tasa R diaria en Uruguay, incluyendo comparaciones internacionales. Desarrollado por Andres Ferragut (Univ. ORT Uruguay) y Ernesto Mordecki (CMAT, UdelaR) en base a la biblioteca EpiEstim.
+
 [Monitor COVID Uruguay](http://pasteur.uy/monitor-covid-19/) - Visualizaciones de los datos de análisis realizados y casos detectados en Uruguay. Incluye información separada por departamentos, entre otras. Mantenido por el [Instituto Pasteur Uruguay](http://pasteur.uy/)  
 
 [Información y divulgación #COVID-19 Uruguay](http://coronavirus.iibce.edu.uy/) - Portal de información que busa "aportar un canal de comunicación abierto y directo con la población, además de información segura y accesible". Mantenido por el [Instituto de Investigaciones Biológicas Clemente Estable](http://www.iibce.edu.uy/)
