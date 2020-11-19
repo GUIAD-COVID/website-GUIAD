@@ -25,6 +25,11 @@
   weight = 45
 
 [[main]]
+ name = "Visualizaciones"
+  url = "vis/"
+  weight = 48
+
+[[main]]
   name = "Recursos externos"
   url = "links/"
   weight = 50
