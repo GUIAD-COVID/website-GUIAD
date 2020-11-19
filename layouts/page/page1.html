@@ -1,18 +1,12 @@
 {{- define "main" -}}
 
-<article class="article">
 
   {{ partial "page_header" . }}
 
-  <div class="article-container">
+  {{ partial "chart_estadisticasUY" . }}
 
-    <div class="article-style">
-        {{ partial "chart_estadisticasUY" . }}
-    </div>
 
     {{ partial "page_footer" . }}
 
-  </div>
-</article>
 
 {{- end -}}
