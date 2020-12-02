@@ -7,6 +7,8 @@
 # Title of your site
 title = "GUIAD-COVID-19"
 
+timeout = 4000000
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "https://GUIAD-COVID.github.io/"
