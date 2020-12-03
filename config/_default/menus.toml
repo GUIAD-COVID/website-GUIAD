@@ -21,12 +21,12 @@
 
 [[main]]
  name = "Datos abiertos"
-  url = "data/"
+  url = "data/estadisticasuy"
   weight = 45
 
 [[main]]
  name = "Visualizaciones"
- url = "/estadisticasUY.html"
+ url = "visual/visualesuy"
  weight = 48
 
 [[main]]
