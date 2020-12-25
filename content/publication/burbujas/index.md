@@ -1,5 +1,5 @@
 ---
-title: "Conductas cotidianas para la contención de la epidemia: nosotros podemos frenar al COVID-19"
+title:  "Burbujas sociales"
 authors:
 - marim
 - pbermolen
@@ -12,7 +12,7 @@ authors:
 - jponzo
 - hromero
 
-date: "2020-12-01"
+date: "2020-12-24"
 doi: ""
 draft: false
 
@@ -23,14 +23,13 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["4"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "Este material gráfico sintetiza una serie de recomendaciones y buenas prácticas, elaboradas por miembros de GUIAD-COVID-19 y el GACH para contener la expansión del virus. Autores de los contenidos: Matías Arim, Paola Bermolen, Álvaro Cabana, María Inés Fariello, Daniel Herrera, Verónica Nin, Javier Pintos, Jacqueline Ponzo, Héctor Romero.
-Material gráfico elaborado por el Servicio de Comunicación y Publicaciones de la FADU-Udelar: Gustavo Hiriart, Cynthia Olguín, Carolina Ibarzabal y Belén Valverde. "
+abstract: "Compartimos una versión resumida del tríptico, en formato adecuado para publicar y compartir en redes sociales via celular. "
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,12 +37,13 @@ Material gráfico elaborado por el Servicio de Comunicación y Publicaciones d
 tags:
 - Infografías
 - Recomendaciones
-- Comunicación
 featured: true
 
 links:
-- name: PDF
-  url: publication/triptico/tripticoGACH_GUIAD_diciembre2020.pdf
+- name: ZIP
+  url: publication/burbujas/burbujas_GUIAD_diciembre2020.zip
+
+
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
@@ -77,6 +77,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-
-[Descargar (PDF)](tripticoGACH_GUIAD_diciembre2020.pdf)

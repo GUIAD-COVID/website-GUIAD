@@ -7,13 +7,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "Reportes técnicos"
-subtitle = "En esta sección publicaremos los informes técnicos que el grupo vaya produciendo, junto con una breve explicación sobre sus principales conclusiones.  Los reportes aquí publicados pasan por un estricto [proceso de revisión](proceso_editorial)."
+title = "Reportes técnicos y divulgación"
+subtitle = "En esta sección publicaremos los informes técnicos que el grupo vaya produciendo, junto con una breve explicación sobre sus principales conclusiones.  Los reportes aquí publicados pasan por un estricto [proceso de revisión](proceso_editorial). También encontrarán materiales gráficos destinados a la divulgación de buenas prácticas y recomendaciones."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
+
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
   
@@ -22,6 +23,8 @@ subtitle = "En esta sección publicaremos los informes técnicos que el grupo va
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+
+
 
   # Filter posts by a taxonomy term.
   [content.filters]

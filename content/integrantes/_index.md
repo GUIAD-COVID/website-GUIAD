@@ -71,6 +71,7 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Juan José Goyeneche - Dr. en Estadística. IESTA, Facultad de Ciencias Económicas, UdelaR.
 * Mariana Guirado - Médica Internista e Infectóloga, Cátedra Enfermedades Infecciosas, UdelaR.
 * Daniel Herrera - Lic. en Bioquímica. Sección Neurociencias, Facultad de Ciencias, UdelaR.
+* Gustavo Hiriart - Arquitecto. Servicio de Comunicación y Publicaciones, Facultad de Arquitectura, Diseño y Urbanismo, UdelaR.
 * Pablo Inchausti - Dr. en Ecología. CURE Maldonado, UdelaR.
 * Gregorio Iraola - Dr. en Ciencias Biológicas. Genómica Microbiana, Instituto Pasteur Montevideo.
 * Federico Lecumberry - Dr. en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR.
@@ -78,6 +79,7 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Daiana Mir - Dr. en Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte, UdelaR.
 * Guillermo Moncecchi - Dr. en Computación. Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * Hugo Naya - Dr. en Genética. Unidad de Bioinformática (IPM) / Departamento de Producción Animal y Pasturas, Facultad de Agronomía, UdelaR.
+* Verónica Nina - Dra. en Ciencias Biológicas, CICEA, UdelaR
 * Daniela Paciel - Médica, Intensivista, Infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina, UdelaR.
 * Marcela Peláez - Dr. en Física, Sistemas fuertemente correlacionados, IFFI, Facultad de Ingeniería, UdelaR.
 * Javier Pintos, Médico Epidemiólogo, Depto. Medicina Preventiva y Social, Facultad de Medicina - UdelaR

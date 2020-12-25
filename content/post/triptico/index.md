@@ -6,7 +6,7 @@ summary: 'Presentamos un material gráfico que sintetiza una serie de recomendac
 authors:
 - guiad
 tags:
-- Reportes
+- Comunicación
 categories:
 - Reportes
 date: "2020-12-01"
