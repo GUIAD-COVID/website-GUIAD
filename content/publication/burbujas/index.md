@@ -29,7 +29,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Compartimos una versión resumida del tríptico, en formato adecuado para publicar y compartir en redes sociales via celular. "
+abstract: "Compartimos una versión resumida del tríptico, en formato adecuado para publicar y compartir en redes sociales via celular. Material gráfico elaborado por el Servicio de Comunicación y Publicaciones de la FADU-Udelar: Gustavo Hiriart, Cynthia Olguín, Carolina Ibarzabal y Belén Valverde."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

@@ -3,6 +3,8 @@ title:  "Ideas para socializar bajando los riesgos de contagio"
 authors:
 - vnin
 - ghiriart
+- jponzo
+
 
 
 date: "2020-12-25"
@@ -22,7 +24,8 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: "Compartimos esta campaña con Buenas Ideas para socializar bajando los riesgos del contagio, en formato adecuado para publicar y compartir en Twitter e Instagram. "
+abstract: "Compartimos esta campaña con Buenas Ideas para socializar bajando los riesgos del contagio, en formato adecuado para publicar y compartir en Twitter e Instagram.
+Material gráfico elaborado por el Servicio de Comunicación y Publicaciones de la FADU-Udelar: Gustavo Hiriart, Cynthia Olguín, Carolina Ibarzabal y Belén Valverde. Contenidos: Diego León Pérez Calabrese, Verónica Nin, Jacqueline Ponzo. "
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
