@@ -74,16 +74,18 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Gustavo Hiriart - Arquitecto. Servicio de Comunicación y Publicaciones, Facultad de Arquitectura, Diseño y Urbanismo, UdelaR.
 * Pablo Inchausti - Dr. en Ecología. CURE Maldonado, UdelaR.
 * Gregorio Iraola - Dr. en Ciencias Biológicas. Genómica Microbiana, Instituto Pasteur Montevideo.
+* Laura Lafon - Dra. en Ciencias Biológicas. Depto. de Genética (IIBCE) y Grupo de Biofísico-química,  CENUR Litoral Norte, UdelaR 
 * Federico Lecumberry - Dr. en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR.
 * José Lezama - Dr. en Matemática Aplicada, Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR
+* Óscar Montañes
 * Daiana Mir - Dr. en Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte, UdelaR.
 * Guillermo Moncecchi - Dr. en Computación. Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * Hugo Naya - Dr. en Genética. Unidad de Bioinformática (IPM) / Departamento de Producción Animal y Pasturas, Facultad de Agronomía, UdelaR.
-* Verónica Nina - Dra. en Ciencias Biológicas, CICEA, UdelaR
+* Verónica Nin - Dra. en Ciencias Biológicas, CICEA, UdelaR
 * Daniela Paciel - Médica, Intensivista, Infectóloga. Cátedra Enfermedades Infecciosas, Facultad de Medicina, UdelaR.
 * Marcela Peláez - Dr. en Física, Sistemas fuertemente correlacionados, IFFI, Facultad de Ingeniería, UdelaR.
 * Javier Pintos, Médico Epidemiólogo, Depto. Medicina Preventiva y Social, Facultad de Medicina - UdelaR
-* Jaqueline Ponzo - Médica, Medicina Familiar y Comunitaria, Facultad de Medicina, UdelaR.
+* Jacqueline Ponzo - Médica, Medicina Familiar y Comunitaria, Facultad de Medicina, UdelaR.
 * Héctor Romero - Dr. en Genómica. Sección Evolución del Genoma, Facultad de Ciencias, UdelaR.
 * Juan Ignacio Sanguinetti - Dr. en Neurociencias. Sección Neurociencias, Facultad de Ciencias, UdelaR.
 * Martín Salgado - Médico, Especialista en administración de servicios de salud, UdelaR-ASSE-MSP.
