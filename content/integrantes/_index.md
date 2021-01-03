@@ -77,7 +77,7 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Laura Lafon - Dra. en Ciencias Biológicas. Depto. de Genética (IIBCE) y Grupo de Biofísico-química,  CENUR Litoral Norte, UdelaR 
 * Federico Lecumberry - Dr. en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR.
 * José Lezama - Dr. en Matemática Aplicada, Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR
-* Óscar Montañes
+* Oscar Montañés - Analista en Computación.
 * Daiana Mir - Dr. en Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte, UdelaR.
 * Guillermo Moncecchi - Dr. en Computación. Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * Hugo Naya - Dr. en Genética. Unidad de Bioinformática (IPM) / Departamento de Producción Animal y Pasturas, Facultad de Agronomía, UdelaR.
