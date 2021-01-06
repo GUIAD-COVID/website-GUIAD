@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proceso Editorial | GUIAD-COVID-19</title>
+    <link>https://GUIAD-COVID.github.io/proceso_editorial/</link>
+      <atom:link href="https://GUIAD-COVID.github.io/proceso_editorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Proceso Editorial</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Proceso Editorial</title>
+      <link>https://GUIAD-COVID.github.io/proceso_editorial/</link>
+    </image>
+    
+  </channel>
+</rss>
