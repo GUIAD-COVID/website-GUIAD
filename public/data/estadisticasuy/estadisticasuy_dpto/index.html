@@ -1,0 +1,1035 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).
+Origen de los datos Hasta el 7/4/2020 los datos son extraídos de los informes de situación publicados por el MSP . El valor N/A se utiliza para indicar valores no disponibles o faltantes en los reportes.">
+
+  
+  <link rel="alternate" hreflang="es" href="https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu27dedf446248e2dda5ecbaac32c57831_122976_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu27dedf446248e2dda5ecbaac32c57831_122976_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/">
+
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="GUIAD-COVID-19">
+  <meta property="og:url" content="https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/">
+  <meta property="og:title" content="Estadísticas por departamento | GUIAD-COVID-19">
+  <meta property="og:description" content="Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).
+Origen de los datos Hasta el 7/4/2020 los datos son extraídos de los informes de situación publicados por el MSP . El valor N/A se utiliza para indicar valores no disponibles o faltantes en los reportes."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="es">
+  
+    
+      <meta property="article:published_time" content="2020-04-12T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-04-12T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Estadísticas por departamento | GUIAD-COVID-19</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Buscar</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Buscar..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">GUIAD-COVID-19</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Barra de navegación">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">GUIAD-COVID-19</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#title"><span>Inicio</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Novedades</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Reportes técnicos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/data/estadisticasuy"><span>Datos abiertos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/visual/visualesuy"><span>Visualizaciones</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/links/"><span>Recursos externos</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>¿Quiénes somos?</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contacto</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Buscar..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/data/estadisticasuy/">Descripción</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/data/estadisticasuy/estadisticasuy/">Estadísticas de todo el país</a>
+
+  </div>
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/data/estadisticasuy/estadisticasuy_dpto/">Estadísticas por departamento</a>
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">En esta página</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#origen-de-los-datos">Origen de los datos</a></li>
+    <li><a href="#enlaces">Enlaces</a></li>
+    <li><a href="#metadatos">Metadatos</a>
+      <ul>
+        <li><a href="#metadatos-para-los-datos-detallados-de-cada-departamento">Metadatos para los datos detallados de cada departamento</a></li>
+        <li><a href="#metadatos-para-el-total-de-activos-por-departamento">Metadatos para el total de activos por departamento</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Estadísticas por departamento</h1>
+
+          <div class="article-style">
+            <p>Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).</p>
+<h2 id="origen-de-los-datos">Origen de los datos</h2>
+<p>Hasta el 7/4/2020 los datos son extraídos de los 
+<a href="https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay" target="_blank" rel="noopener">informes de situación publicados por el MSP</a>
+.
+El valor <code>N/A</code> se utiliza para indicar valores no disponibles o faltantes en los reportes.</p>
+<p>A partir del 9/4/2020 los datos se extraen del [Visualizador de casos coronavirus COVID-19 en Uruguay] (<a href="https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay">https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay</a>)</p>
+<h2 id="enlaces">Enlaces</h2>
+<ul>
+<li>
+<p>
+<a href="https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto.csv" target="_blank" rel="noopener">Cantidad de activos por departamento en formato CSV</a>
+</p>
+</li>
+<li>
+<p>
+<a href="https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto_detalle.csv" target="_blank" rel="noopener">Datos detallados por departamento en formato CSV</a>
+</p>
+</li>
+</ul>
+<h2 id="metadatos">Metadatos</h2>
+<h3 id="metadatos-para-los-datos-detallados-de-cada-departamento">Metadatos para los datos detallados de cada departamento</h3>
+<table>
+<thead>
+<tr>
+<th>Columna</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fecha</td>
+<td>día calendario en que se informaron estos datos</td>
+</tr>
+<tr>
+<td>departamento</td>
+<td>departamento de Uruguay</td>
+</tr>
+<tr>
+<td>enCurso</td>
+<td>cantidad de personas que actualmente cursan la infección</td>
+</tr>
+<tr>
+<td>cantCasosNuevos</td>
+<td><strong>cantidad de casos nuevos</strong> <sup>2</sup> identificados ese dia</td>
+</tr>
+<tr>
+<td>cantFallecidos</td>
+<td>cantidad de fallecidos reportados ese día</td>
+</tr>
+<tr>
+<td>acumFallecidos</td>
+<td>acumulado de la cantidad de fallecidos hasta ese día</td>
+</tr>
+<tr>
+<td>cantRecuperados</td>
+<td>cantidad de pacientes recuperados reportados ese día</td>
+</tr>
+<tr>
+<td>acumRecuperados</td>
+<td>acumulado de la cantidad de recuperados hasta ese día</td>
+</tr>
+<tr>
+<td>acumCasos</td>
+<td>cantidad de casos acumulados hasta el momento</td>
+</tr>
+</tbody>
+</table>
+<p><sup>2</sup> La cantidad de casos nuevos se computa como enCurso(hoy)-enCurso(ayer)+cantRecuperados(hoy)+cantFallecidos(hoy)</p>
+<h3 id="metadatos-para-el-total-de-activos-por-departamento">Metadatos para el total de activos por departamento</h3>
+<table>
+<thead>
+<tr>
+<th>Columna</th>
+<th>Descripción</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fecha</td>
+<td>día calendario en que se informaron estos datos</td>
+</tr>
+<tr>
+<td>día</td>
+<td>día correlativo desde el 13 de marzo, cuando se anunció el primer caso</td>
+</tr>
+<tr>
+<td>cantDeptosAfectados</td>
+<td>cantidad de departamentos que presentan alguna persona con infección en curso</td>
+</tr>
+<tr>
+<td>Artigas (UY-AR )</td>
+<td><strong>cantidad de casos</strong><sup>1</sup> en el departamento de Artigas (UY-AR )</td>
+</tr>
+<tr>
+<td>Canelones (UY-CA )</td>
+<td>cantidad de casos en el departamento de Canelones (UY-CA )</td>
+</tr>
+<tr>
+<td>Cerro Largo (UY-CL )</td>
+<td>cantidad de casos en el departamento de Cerro Largo (UY-CL )</td>
+</tr>
+<tr>
+<td>Colonia (UY-CO )</td>
+<td>cantidad de casos en el departamento de Colonia (UY-CO )</td>
+</tr>
+<tr>
+<td>Durazno (UY-DU )</td>
+<td>cantidad de casos en el departamento de Durazno (UY-DU )</td>
+</tr>
+<tr>
+<td>Flores (UY-FS )</td>
+<td>cantidad de casos en el departamento de Flores (UY-FS )</td>
+</tr>
+<tr>
+<td>Florida (UY-FD )</td>
+<td>cantidad de casos en el departamento de Florida (UY-FD )</td>
+</tr>
+<tr>
+<td>Lavalleja (UY-LA )</td>
+<td>cantidad de casos en el departamento de Lavalleja (UY-LA )</td>
+</tr>
+<tr>
+<td>Maldonado (UY-MA )</td>
+<td>cantidad de casos en el departamento de Maldonado (UY-MA )</td>
+</tr>
+<tr>
+<td>Montevideo (UY-MO )</td>
+<td>cantidad de casos en el departamento de Montevideo (UY-MO )</td>
+</tr>
+<tr>
+<td>Paysandú (UY-PA )</td>
+<td>cantidad de casos en el departamento de Paysandú (UY-PA )</td>
+</tr>
+<tr>
+<td>Río Negro (UY-RN )</td>
+<td>cantidad de casos en el departamento de Río Negro (UY-RN )</td>
+</tr>
+<tr>
+<td>Rivera (UY-RV )</td>
+<td>cantidad de casos en el departamento de Rivera (UY-RV )</td>
+</tr>
+<tr>
+<td>Rocha (UY-RO )</td>
+<td>cantidad de casos en el departamento de Rocha (UY-RO )</td>
+</tr>
+<tr>
+<td>Salto (UY-SA )</td>
+<td>cantidad de casos en el departamento de Salto (UY-SA )</td>
+</tr>
+<tr>
+<td>San José (UY-SJ )</td>
+<td>cantidad de casos en el departamento de San José (UY-SJ )</td>
+</tr>
+<tr>
+<td>Soriano (UY-SO )</td>
+<td>cantidad de casos en el departamento de Soriano (UY-SO )</td>
+</tr>
+<tr>
+<td>Tacuarembó (UY-TA )</td>
+<td>cantidad de casos en el departamento de Tacuarembó (UY-TA )</td>
+</tr>
+<tr>
+<td>Treinta y Tres (UY-TT )</td>
+<td>cantidad de casos en el departamento de Treinta y Tres (UY-TT )</td>
+</tr>
+</tbody>
+</table>
+<p><sup>1</sup> La cantidad de casos se reporta de la siguiente manera:</p>
+<p>Antes del 9/4/2020:</p>
+<ul>
+<li>SI indica que hay algún caso reportado a la fecha</li>
+<li>0 si no hay hasta el momento casos reportados</li>
+</ul>
+<p>Luego del 9/4/2020</p>
+<ul>
+<li>el número indica la cantidad de casos activos a esa fecha en ese departamento, los recuperados se van restando.</li>
+</ul>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">Siguiente</div>
+    <a href="/data/estadisticasuy/estadisticasuy/" rel="prev">Estadísticas de todo el país</a>
+  </div>
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Última actualización el 2020-04-12</p>
+
+          
+
+
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © GUIAD-COVID-19 (2021) &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No se encontraron resultados","placeholder":"Buscar...","results":"resultados encontrados"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Proyectos",
+        'publication' : "Publicaciones",
+        'talk' : "Charlas"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.0630fec5958cb075a5a38f042b3ddde6.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citar</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copiar
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Descargar
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
