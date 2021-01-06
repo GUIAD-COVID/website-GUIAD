@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Objetivos de GUIAD-COVID-19 | GUIAD-COVID-19</title>
+    <link>https://GUIAD-COVID.github.io/objetivos/</link>
+      <atom:link href="https://GUIAD-COVID.github.io/objetivos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Objetivos de GUIAD-COVID-19</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Objetivos de GUIAD-COVID-19</title>
+      <link>https://GUIAD-COVID.github.io/objetivos/</link>
+    </image>
+    
+  </channel>
+</rss>
