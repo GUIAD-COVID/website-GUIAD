@@ -393,10 +393,10 @@ que requiera hospitalización es sólo 12 veces menor. Puede descargarse desde
       <link>https://GUIAD-COVID.github.io/post/reporte9/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/post/reporte9/</guid>
-      <description>&lt;p&gt;Las intervenciones no farmacológicas (InF), como el aislamiento de casos, rastreo y cuarentena de contactos de riesgo, y uso de máscaras faciales, están en el centro de las 
-medidas de manejo de la pandemia de COVID-19 y otras enfermedades emergentes. En este reporte presentamos un modelo matemático del efecto que las InF tienen sobre la propagación 
-inicial de la enfermedad, encontrando que pueden generar un umbral en el número de infectados activos, que una vez cruzado desencadena el crecimiento sostenido de la misma. 
-Esto permite explicar cómo algunos países han logrado mantener la epidemia controlada (como Uruguay), y cómo ese control puede perderse rápidamente generando un crecimiento 
+      <description>&lt;p&gt;Las intervenciones no farmacológicas (InF), como el aislamiento de casos, rastreo y cuarentena de contactos de riesgo, y uso de máscaras faciales, están en el centro de las
+medidas de manejo de la pandemia de COVID-19 y otras enfermedades emergentes. En este reporte presentamos un modelo matemático del efecto que las InF tienen sobre la propagación
+inicial de la enfermedad, encontrando que pueden generar un umbral en el número de infectados activos, que una vez cruzado desencadena el crecimiento sostenido de la misma.
+Esto permite explicar cómo algunos países han logrado mantener la epidemia controlada (como Uruguay), y cómo ese control puede perderse rápidamente generando un crecimiento
 muy rápido del número de casos (como sucedió en Costa Rica y Paraguay, entre otros países). Puede descargarse desde 
 &lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
 .&lt;/p&gt;
@@ -445,12 +445,12 @@ Uruguay. Puede descargarse desde
       <link>https://GUIAD-COVID.github.io/post/reporte7/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://GUIAD-COVID.github.io/post/reporte7/</guid>
-      <description>&lt;p&gt;Analizamos la  siguiente pregunta: ¿un aumento en la movilidad implica un aumento de la tasa de contagio?  Concluimos, con un poco de sorpresa, 
-que un aumento de la movilidad tiene un efecto reducido en el aumento de la tasa de contagio. El método utiliza una aproximación lineal de un modelo compartimental de tipo SEIR, 
-que permite calcular de forma analítica la solución.  Esta solución es una combinación lineal de exponenciales, cuyos parámetros se estiman ajustando la curva a los datos 
-oficiales de infectados. Uno de estos parámetros es la tasa de crecimiento epidémico, relacionada con el tiempo de duplicación de la cantidad de infectados, 
-que se puede estimar de de forma más robusta que el conocido número básico de reproducción R. Estimamos este parámetro para cada semana, y hacemos una regresión lineal de estos 
-valores a los datos de movilidad publicados por Google. Este resultado muestra la importancia de todas las otras medidas sanitarias adoptadas. 
+      <description>&lt;p&gt;Analizamos la  siguiente pregunta: ¿un aumento en la movilidad implica un aumento de la tasa de contagio?  Concluimos, con un poco de sorpresa,
+que un aumento de la movilidad tiene un efecto reducido en el aumento de la tasa de contagio. El método utiliza una aproximación lineal de un modelo compartimental de tipo SEIR,
+que permite calcular de forma analítica la solución.  Esta solución es una combinación lineal de exponenciales, cuyos parámetros se estiman ajustando la curva a los datos
+oficiales de infectados. Uno de estos parámetros es la tasa de crecimiento epidémico, relacionada con el tiempo de duplicación de la cantidad de infectados,
+que se puede estimar de de forma más robusta que el conocido número básico de reproducción R. Estimamos este parámetro para cada semana, y hacemos una regresión lineal de estos
+valores a los datos de movilidad publicados por Google. Este resultado muestra la importancia de todas las otras medidas sanitarias adoptadas.
 Puede descargarse desde 
 &lt;a href=&#34;https://GUIAD-COVID.github.io/#publications&#34;&gt;Reportes técnicos&lt;/a&gt;
 .&lt;/p&gt;
@@ -566,9 +566,9 @@ Puede descargarse desde
 &lt;p&gt;Nuestros recientes estudios sugieren que, para Uruguay, los datos de casos publicados oficialmente presentan lo que se llama un crecimiento &lt;em&gt;subexponencial&lt;/em&gt;. El crecimiento subexponencial es un crecimiento que no acelera con las características exponenciales anteriormente mencionadas. Este tipo de crecimiento es común en muchas epidemias y puede tener diferentes razones de ser. Tales razones pueden ser interpretadas como escenarios tanto positivos como negativos.&lt;/p&gt;
 &lt;p&gt;Sugerimos &lt;strong&gt;dos explicaciones posibles&lt;/strong&gt; para el  crecimiento subexponencial de datos confirmados en uruguay&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;La enfermedad crece de manera subexponencial. 
+&lt;li&gt;La enfermedad crece de manera subexponencial.
 Las intervenciones sociales impuestas por el estado han tenido un efecto de retrasar el crecimiento de la enfermedad y están actuando como fuerzas que contraponen el crecimiento exponencial.&lt;/li&gt;
-&lt;li&gt;El crecimiento subexponencial de los datos se debe al muestreo. 
+&lt;li&gt;El crecimiento subexponencial de los datos se debe al muestreo.
 Este crecimiento subexponencial no se debe necesariamente a un crecimiento resistido de la enfermedad, sino a desviaciones producidas por nuestras capacidades y decisiones de testeo. Es decir, que lo que se mide, no es proporcional a la cantidad de contagios real.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Nuevamente, para poder saber cuál es la causa, y con ello que se puedan mejorar aún más las medidas necesarias, es fundamental tener más datos de las estrategias de muestreo diagnóstico en Uruguay. Por ahora, es importante notar que en cualquiera de los dos casos, &lt;strong&gt;las tasas de crecimiento subexponenciales pueden rápidamente revertirse en un crecimiento exponencial&lt;/strong&gt;. Esto significa que a pesar de que los datos parecen crecer lentamente, y de forma subexponencial, es importante &lt;strong&gt;mantener las medidas recomendadas por el MSP&lt;/strong&gt;.&lt;/p&gt;
