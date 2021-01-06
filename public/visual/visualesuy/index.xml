@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visualización de Estadísticas epidemiológicas de Uruguay | GUIAD-COVID-19</title>
+    <link>https://GUIAD-COVID.github.io/visual/visualesuy/</link>
+      <atom:link href="https://GUIAD-COVID.github.io/visual/visualesuy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visualización de Estadísticas epidemiológicas de Uruguay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Visualización de Estadísticas epidemiológicas de Uruguay</title>
+      <link>https://GUIAD-COVID.github.io/visual/visualesuy/</link>
+    </image>
+    
+  </channel>
+</rss>
