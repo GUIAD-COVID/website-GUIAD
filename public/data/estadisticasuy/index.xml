@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estadísticas epidemiológicas de Uruguay | GUIAD-COVID-19</title>
+    <link>https://GUIAD-COVID.github.io/data/estadisticasuy/</link>
+      <atom:link href="https://GUIAD-COVID.github.io/data/estadisticasuy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Estadísticas epidemiológicas de Uruguay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><copyright>© GUIAD-COVID-19 (2021)</copyright><lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Estadísticas epidemiológicas de Uruguay</title>
+      <link>https://GUIAD-COVID.github.io/data/estadisticasuy/</link>
+    </image>
+    
+    <item>
+      <title>Estadísticas por departamento</title>
+      <link>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy_dpto/</guid>
+      <description>&lt;p&gt;Se publican dos conjuntos de datos: uno que tiene el total de casos activos por departamento para cada fecha, y otro que tiene el detalle por departamento y fecha de casos activos, casos nuevos, fallecidos y recuperados (a partir del 29-04-2020).&lt;/p&gt;
+&lt;h2 id=&#34;origen-de-los-datos&#34;&gt;Origen de los datos&lt;/h2&gt;
+&lt;p&gt;Hasta el 7/4/2020 los datos son extraídos de los 
+&lt;a href=&#34;https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;informes de situación publicados por el MSP&lt;/a&gt;
+.
+El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponibles o faltantes en los reportes.&lt;/p&gt;
+&lt;p&gt;A partir del 9/4/2020 los datos se extraen del [Visualizador de casos coronavirus COVID-19 en Uruguay] (&lt;a href=&#34;https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay&#34;&gt;https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay&lt;/a&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;enlaces&#34;&gt;Enlaces&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto.csv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cantidad de activos por departamento en formato CSV&lt;/a&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_porDepto_detalle.csv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datos detallados por departamento en formato CSV&lt;/a&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;metadatos&#34;&gt;Metadatos&lt;/h2&gt;
+&lt;h3 id=&#34;metadatos-para-los-datos-detallados-de-cada-departamento&#34;&gt;Metadatos para los datos detallados de cada departamento&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Columna&lt;/th&gt;
+&lt;th&gt;Descripción&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;fecha&lt;/td&gt;
+&lt;td&gt;día calendario en que se informaron estos datos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;departamento&lt;/td&gt;
+&lt;td&gt;departamento de Uruguay&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;enCurso&lt;/td&gt;
+&lt;td&gt;cantidad de personas que actualmente cursan la infección&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantCasosNuevos&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;cantidad de casos nuevos&lt;/strong&gt; &lt;sup&gt;2&lt;/sup&gt; identificados ese dia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantFallecidos&lt;/td&gt;
+&lt;td&gt;cantidad de fallecidos reportados ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumFallecidos&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de fallecidos hasta ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantRecuperados&lt;/td&gt;
+&lt;td&gt;cantidad de pacientes recuperados reportados ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumRecuperados&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de recuperados hasta ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumCasos&lt;/td&gt;
+&lt;td&gt;cantidad de casos acumulados hasta el momento&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt; La cantidad de casos nuevos se computa como enCurso(hoy)-enCurso(ayer)+cantRecuperados(hoy)+cantFallecidos(hoy)&lt;/p&gt;
+&lt;h3 id=&#34;metadatos-para-el-total-de-activos-por-departamento&#34;&gt;Metadatos para el total de activos por departamento&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Columna&lt;/th&gt;
+&lt;th&gt;Descripción&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;fecha&lt;/td&gt;
+&lt;td&gt;día calendario en que se informaron estos datos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;día&lt;/td&gt;
+&lt;td&gt;día correlativo desde el 13 de marzo, cuando se anunció el primer caso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantDeptosAfectados&lt;/td&gt;
+&lt;td&gt;cantidad de departamentos que presentan alguna persona con infección en curso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Artigas (UY-AR )&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;cantidad de casos&lt;/strong&gt;&lt;sup&gt;1&lt;/sup&gt; en el departamento de Artigas (UY-AR )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Canelones (UY-CA )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Canelones (UY-CA )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Cerro Largo (UY-CL )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Cerro Largo (UY-CL )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Colonia (UY-CO )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Colonia (UY-CO )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Durazno (UY-DU )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Durazno (UY-DU )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Flores (UY-FS )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Flores (UY-FS )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Florida (UY-FD )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Florida (UY-FD )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Lavalleja (UY-LA )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Lavalleja (UY-LA )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Maldonado (UY-MA )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Maldonado (UY-MA )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Montevideo (UY-MO )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Montevideo (UY-MO )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Paysandú (UY-PA )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Paysandú (UY-PA )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Río Negro (UY-RN )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Río Negro (UY-RN )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rivera (UY-RV )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Rivera (UY-RV )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Rocha (UY-RO )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Rocha (UY-RO )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Salto (UY-SA )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Salto (UY-SA )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;San José (UY-SJ )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de San José (UY-SJ )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Soriano (UY-SO )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Soriano (UY-SO )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tacuarembó (UY-TA )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Tacuarembó (UY-TA )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Treinta y Tres (UY-TT )&lt;/td&gt;
+&lt;td&gt;cantidad de casos en el departamento de Treinta y Tres (UY-TT )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; La cantidad de casos se reporta de la siguiente manera:&lt;/p&gt;
+&lt;p&gt;Antes del 9/4/2020:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SI indica que hay algún caso reportado a la fecha&lt;/li&gt;
+&lt;li&gt;0 si no hay hasta el momento casos reportados&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Luego del 9/4/2020&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;el número indica la cantidad de casos activos a esa fecha en ese departamento, los recuperados se van restando.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estadísticas de todo el país</title>
+      <link>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://GUIAD-COVID.github.io/data/estadisticasuy/estadisticasuy/</guid>
+      <description>&lt;h2 id=&#34;metadatos&#34;&gt;Metadatos&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Columna&lt;/th&gt;
+&lt;th&gt;Descripción&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;fecha&lt;/td&gt;
+&lt;td&gt;día calendario en que se informaron estos datos&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dia&lt;/td&gt;
+&lt;td&gt;día correlativo desde el 13 de marzo, cuando se anunció el primer caso&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantPersonasConInfeccionEnCurso&lt;/td&gt;
+&lt;td&gt;cantidad de personas que actualmente cursan la infección&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantCasosNuevos&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;cantidad de casos nuevos&lt;/strong&gt; &lt;sup&gt;3&lt;/sup&gt; identificados ese dia&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumCasos&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;cantidad de casos acumulados&lt;/strong&gt;&lt;sup&gt;2&lt;/sup&gt; hasta el momento&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantFallecidos&lt;/td&gt;
+&lt;td&gt;cantidad de fallecidos reportados ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumFallecidos&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de fallecidos hasta ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantCTI&lt;/td&gt;
+&lt;td&gt;cantidad de pacientes reportados en CTI ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantCI&lt;/td&gt;
+&lt;td&gt;cantidad de pacientes reportados en CI ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantRecuperados&lt;/td&gt;
+&lt;td&gt;cantidad de pacientes recuperados reportados ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumRecuperados&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de recuperados hasta ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantTest&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;cantidad de tests&lt;/strong&gt;&lt;sup&gt;1&lt;/sup&gt; realizados ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumTest&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de tests realizados hasta ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;cantTestPositivos&lt;/td&gt;
+&lt;td&gt;cantidad de tests positivos de ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;acumTestPositivos&lt;/td&gt;
+&lt;td&gt;acumulado de la cantidad de tests positivos hasta ese día&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;origen-de-los-datos&#34;&gt;Origen de los datos&lt;/h2&gt;
+&lt;p&gt;Datos extraídos de los 
+&lt;a href=&#34;https://www.gub.uy/sistema-nacional-emergencias/comunicacion/noticias/informacion-interes-actualizada-sobre-coronavirus-covid-19-uruguay&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;informes de situación publicados por el MSP&lt;/a&gt;
+.
+El valor &lt;code&gt;N/A&lt;/code&gt; se utiliza para indicar valores no disponibles o faltantes en los reportes.&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt; Nótese que siempre se hace referencia a cantidad de tests y no cantidad de personas. Sobre algunas personas se realizan tests más de una vez por lo que la cantidad de infectados es menor o igual a la cantidad de tests positivos.&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;2&lt;/sup&gt; A partir del 9/4 este valor se obtiene como (cantPersonasConInfeccionEnCurso +acumRecuperados+cantFallecidos). Antes del 8/4, el valor de cantPersonasConInfeccionEnCurso no se conoce y por lo tanto este valor se estima. Esta estimación se hace distribuyendo la diferencia entre numero de test positivos y numero de personas positivas al 9/4 (22, o sea 22 tests dobles) en los 11 días anteriores, a 2 extra por dia.&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;3&lt;/sup&gt; La cantidad de casos nuevos se computa como cantPersonasConInfeccionEnCurso(hoy)-cantPersonasConInfeccionEnCurso(ayer)+cantRecuperados(hoy)+cantFallecidos(hoy)&lt;/p&gt;
+&lt;h2 id=&#34;enlaces&#34;&gt;Enlaces&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY.csv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Datos en formato CSV&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/explica_estadisticasUY.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Metadata&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
