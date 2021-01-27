@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:GUIAD-COVID/guiad-covid.github.io.git
+	url = git@github.com:guiad-covid/guiad-covid.github.io.git
 	branch = master
