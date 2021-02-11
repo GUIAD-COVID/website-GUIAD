@@ -70,4 +70,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-[Descargar reporte completo (PDF)](Nota_11_Efecto_de_la_reducción_de_movilidad_en_la_2da_ola_GUIAD-Covid19.pdf)
+[Descargar reporte completo (PDF)](Nota_11_Efecto_de_la_reduccion_de_movilidad_en_la_2da_ola_GUIAD-Covid19.pdf)
