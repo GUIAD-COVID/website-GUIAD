@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Visualización de Estadísticas epidemiológicas de Uruguay
 date: "2020-04-12T00:00:00Z"
-lastmod: "2020-04-12T00:00:00Z"
+lastmod: "2021-03-02T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -28,6 +28,6 @@ menu:
 A partir de los datos epidemiológicos recopilados y publicados como Datos Abiertos elaboramos visualizaciones y animaciones.
 
 * :chart_with_downwards_trend: [Gráficos y mapas actualizados diariamente](/estadisticasuy.html)
-* :dart:[Evolución de P7 entre Mayo y Diciembre 2020](/evolucionP7.html)
+* :dart:[Evolución de P7 entre Mayo 2020 y Marzo 2021](/evolucionP7.html)
 
 
