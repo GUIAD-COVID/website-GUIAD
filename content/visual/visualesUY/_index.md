@@ -30,4 +30,6 @@ A partir de los datos epidemiológicos recopilados y publicados como Datos Abier
 * :chart_with_downwards_trend: [Gráficos y mapas actualizados diariamente](/estadisticasuy.html)
 * :dart:[Evolución de P7 entre Mayo 2020 y Marzo 2021](/evolucionP7.html)
 
+* :dart:[Evolución de la prevalencia en el departamento de Canelones entre Diciembre 2020 y Marzo 2021](/estadisticasCA.html)
+
 
