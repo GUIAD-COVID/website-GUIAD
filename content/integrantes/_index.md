@@ -56,7 +56,7 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Javier Baliosian - Dr. en Computación. Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * Juan Manuel Barreneche - MSc en Ecología. Modelado de ecología poblacional y comunitaria. DINAMA.
 * Paola Bermolen - Dr. en Informática y Redes. Modelos Estocásticos de Redes de Datos. IMERL, Facultad de Ingeniería, UdelaR.
-* Horacio Botti - Médico, Dr. en Biofísica de Proteínas. Dep. Biofísica, Facultad de Medicina, UdelaR.
+* Horacio Botti - Médico, Dr. en Biología de Proteínas. Dep. Biofísica, Facultad de Medicina, UdelaR.
 * Germán Botto - Lic. en Biologia Humana. Dpto. Métodos Cuantitativos, Facultad de Medicina, UdelaR
 * Nicolás Brunet - Dr. en Ciencia Social, Dr. Demografía. Instituto de Psicología de la Salud, Facultad de Psicología, UdelaR.
 * Álvaro Cabana - Dr. en Biofísica. Redes neurales. CIBPsi / IFyM, Facultad de Psicología, UdelaR.
@@ -71,12 +71,14 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Juan José Goyeneche - Dr. en Estadística. IESTA, Facultad de Ciencias Económicas, UdelaR.
 * Mariana Guirado - Médica Internista e Infectóloga, Cátedra Enfermedades Infecciosas, UdelaR.
 * Daniel Herrera - Lic. en Bioquímica. Sección Neurociencias, Facultad de Ciencias, UdelaR.
+* Marcelo Hill - Dr. en Inmunología. Facultad de Medicina, UdelaR. Institut Pasteur de Montevideo.
 * Gustavo Hiriart - Arquitecto. Servicio de Comunicación y Publicaciones, Facultad de Arquitectura, Diseño y Urbanismo, UdelaR.
 * Pablo Inchausti - Dr. en Ecología. CURE Maldonado, UdelaR.
 * Gregorio Iraola - Dr. en Ciencias Biológicas. Genómica Microbiana, Instituto Pasteur Montevideo.
 * Laura Lafon - Dra. en Ciencias Biológicas. Depto. de Genética (IIBCE) y Grupo de Biofísico-química,  CENUR Litoral Norte, UdelaR 
 * Federico Lecumberry - Dr. en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR.
 * José Lezama - Dr. en Matemática Aplicada, Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR
+* Silvia Méndez. MSc. en Derechos de Infancia y Política Pública. Lic. En Trabajo Social. Unidad Académica de Bioética. Facultad de MEdicina
 * Oscar Montañés - Analista en Computación.
 * Daiana Mir - Dr. en Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte, UdelaR.
 * Guillermo Moncecchi - Dr. en Computación. Instituto de Computación, Facultad de Ingeniería, UdelaR.
@@ -90,5 +92,6 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Juan Ignacio Sanguinetti - Dr. en Neurociencias. Sección Neurociencias, Facultad de Ciencias, UdelaR.
 * Martín Salgado - Médico, Especialista en administración de servicios de salud, UdelaR-ASSE-MSP.
 * María Simón - Decana, Facultad de Ingeniería, UdelaR. 
+* Gonzalo Tancredi, Dr., Instituto de Física, Facultad de Ciencias, UdelaR
 * Jorge Visca - Msc. en Computación, Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * Nicolás Wschebor - Dr. en Física, Sistemas fuertemente correlacionados, IFFI, Facultad de Ingeniería, UdelaR.
