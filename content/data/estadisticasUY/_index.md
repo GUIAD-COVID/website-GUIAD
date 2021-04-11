@@ -25,14 +25,21 @@ menu:
  
 ## Descripción
 
-A partir de los comunicados publicados diariamente por el [SINAE](https://www.gub.uy/sistema-nacional-emergencias/comunicacion/comunicados) y de los datos disponibles diariamente en el [Visualizador de casos coronavirus COVID-19 en Uruguay](https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay) extraemos variables epidemiológicas sobre COVID-19 en Uruguay, y las publicamos como Datos Abiertos.
+A partir de los comunicados publicados diariamente por el [SINAE](https://www.gub.uy/sistema-nacional-emergencias/comunicacion/comunicados) y de los datos disponibles diariamente en el [Visualizador de casos coronavirus COVID-19 en Uruguay](https://www.gub.uy/sistema-nacional-emergencias/pagina-embebida/visualizador-casos-coronavirus-covid-19-uruguay) extraemos variables epidemiológicas sobre COVID-19 en Uruguay, y las publicamos como Datos Abiertos. Además, extraemos y publicamos la información sobre ocupación de CTI que publica a diario la [Sociedad Uruguaya de Medicina Intesiva (SUMI)](https://sumi.uy/)
 
-Los conjuntos de datos, actualizados diariamente, son los siguientes:
 
-* [Estadísticas de todo el pais](./estadisticasuy/) - :chart_with_downwards_trend:[Visualizar](/estadisticasuy.html)
+Los conjuntos de datos son los siguientes:
+* [Estadísticas de todo el pais](./estadisticasuy/) 
 * [Estadísticas por departamento](./estadisticasuy_dpto/)
+* [Estadísticas de fallecimientos](./estadisticasuy_fallecidos/)
+* [Estadísticas de CTI (SUMI)](./estadisticasuy_cti/)
+
+A partir de los casos nuevos reportados por el SINAE calculamos el índice p7 a nivel nacional y por departamento (media de casos nuevos en los últimos 7 días cada 100.000 habitantes).
+
+* [Serie temporal de P7 nacional](https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_p7nacional.csv)
+* [Serie temporal de P7 por departamento](https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/estadisticasUY_p7.csv)
 
 
-A partir de estos datos calculamos el índice p7 por departamento (media de casos nuevos en los últimos 7 días cada 100.000 habitantes), el cual utilizamos para realizar esta [animación](/evolucionP7.html). Disponibilizamos la serie temporal desde el 6/5/2020 al 2/12/2020.
+En base a todos estos conjuntos de datos actualizamos diariamente una serie de :chart_with_downwards_trend:[visualizaciones](/visual/visualesuy)
 
-* [Descargar la serie temporal en formato CSV](https://github.com/GUIAD-COVID/datos-y-visualizaciones-GUIAD/blob/master/datos/P7.csv)
+[Aquí](/evolucionP7.html) se puede ver una animación de la evolución del P7 a nivel departamental entre Mayo 2020 y Marzo 2021.
