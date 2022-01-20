@@ -79,7 +79,7 @@ La siguiente es una lista, que puede no estar actualizada, de integrantes del GU
 * Federico Lecumberry - Dr. en Ingeniería Eléctrica (Procesamiento de Señales). Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR.
 * José Lezama - Dr. en Matemática Aplicada, Instituto de Ingeniería Eléctrica, Facultad de Ingeniería, UdelaR
 * Silvia Méndez. MSc. en Derechos de Infancia y Política Pública. Lic. En Trabajo Social. Unidad Académica de Bioética. Facultad de MEdicina
-* Oscar Montañés - Analista en Computación.
+* Oscar Montañés - Ing. en Computación.
 * Daiana Mir - Dr. en Evolución viral. Unidad de Genómica y Bioinformática. Centro Universitario Regional del Litoral Norte, UdelaR.
 * Guillermo Moncecchi - Dr. en Computación. Instituto de Computación, Facultad de Ingeniería, UdelaR.
 * Hugo Naya - Dr. en Genética. Unidad de Bioinformática (IPM) / Departamento de Producción Animal y Pasturas, Facultad de Agronomía, UdelaR.
